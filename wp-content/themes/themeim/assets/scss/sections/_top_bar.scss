@@ -1,0 +1,80 @@
+/*----------------------------
+    Top Bar
+----------------------------*/
+
+.topbar-area {
+    &.style-01 {
+        position: relative;
+        &:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 35%;
+            height: 100%;
+            background-color: var(--main-color-one);
+            z-index: -1;
+            clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
+        }
+    }
+}
+
+.topbar-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    div {
+        .boxed-btn {
+            padding: 15px 30px;
+            background-color: var(--main-color-one);
+            display: inline-block;
+            color: $white;
+            @include transition($transition);
+            &:hover {
+                background-color: var(--secondary-color);
+                color: $white;
+            }
+        }
+    }
+    &.style-01 {
+        padding: 10px 0;
+        .right-contnet {
+            display: flex;
+            align-items: center;
+            .social-icon {
+                display: flex;
+                align-items: center;
+            }
+            p{
+                margin-bottom: 0;
+                margin-right: 30px;
+                color: $white;
+                a{
+                    margin-left: 5px;
+                    text-decoration: underline;
+                    color: var(--main-color-one);
+                    font-weight: 600;
+                }
+            }
+            div {
+                margin-left: 30px;
+                .boxed-btn {
+                    padding: 15px 30px;
+                    background-color: var(--secondary-color);
+                    display: inline-block;
+                    color: #111;
+                    @include transition($transition);
+                    i {
+                        font-size: 15px;
+                        margin-left: 5px;
+                    }
+                    &:hover {
+                        background-color: var(--main-color-one);
+                        color: $white;
+                    }
+                }
+            }
+        }
+    }
+}

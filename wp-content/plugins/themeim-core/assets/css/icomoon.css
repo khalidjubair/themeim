@@ -1,0 +1,237 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?7incod');
+    src:  url('../fonts/icomoon.eot?7incod#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?7incod') format('truetype'),
+    url('../fonts/icomoon.woff?7incod') format('woff'),
+    url('../fonts/icomoon.svg?7incod#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: initial;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-arrow-right-01:before {
+    content: "\e910";
+}
+.icomoon-Group-2361:before {
+    content: "\e911";
+}
+.icomoon-job-announcement:before {
+    content: "\e918";
+}
+.icomoon-note:before {
+    content: "\e919";
+}
+.icomoon-money-svgrepo-com-1:before {
+    content: "\e91a";
+}
+.icomoon-world-svgrepo-com:before {
+    content: "\e91b";
+}
+.icomoon-briefcase:before {
+    content: "\e91c";
+}
+.icomoon-coolest-job:before {
+    content: "\e91d";
+}
+.icomoon-private-helicoopter1:before {
+    content: "\e91e";
+}
+.icomoon-red-light-svgrepo-com:before {
+    content: "\e90b";
+}
+.icomoon-from-airplane:before {
+    content: "\e900";
+}
+.icomoon-quote:before {
+    content: "\e901";
+}
+.icomoon-to-airplane:before {
+    content: "\e902";
+}
+.icomoon-air-ambulance:before {
+    content: "\e906";
+}
+.icomoon-Business-Jet-Charter1:before {
+    content: "\e90e";
+}
+.icomoon-wifi:before {
+    content: "\e912";
+}
+.icomoon-title-icon:before {
+    content: "\e90f";
+}
+.icomoon-Aircraft_Speed:before {
+    content: "\e903";
+}
+.icomoon-All_-Around_Globe:before {
+    content: "\e904";
+}
+.icomoon-Anywhere:before {
+    content: "\e905";
+}
+.icomoon-Arrow_down:before {
+    content: "\e907";
+}
+.icomoon-Arrow_Left:before {
+    content: "\e908";
+}
+.icomoon-arrow-left:before {
+    content: "\e909";
+}
+.icomoon-Benefits-of-Training:before {
+    content: "\e90a";
+}
+.icomoon-btn-icon:before {
+    content: "\e90c";
+}
+.icomoon-btn-icon-v2:before {
+    content: "\e90d";
+}
+.icomoon-Cabin_Comfort:before {
+    content: "\e913";
+}
+.icomoon-call_icone:before {
+    content: "\e914";
+}
+.icomoon-call-icon:before {
+    content: "\e915";
+}
+.icomoon-Create_Password_icone:before {
+    content: "\e922";
+}
+.icomoon-Date:before {
+    content: "\e923";
+}
+.icomoon-Direction .path1:before {
+    content: "\e924";
+}
+.icomoon-Direction .path2:before {
+    content: "\e925";
+}
+.icomoon-Duration:before {
+    content: "\e926";
+}
+.icomoon-Experience:before {
+    content: "\e92f";
+}
+.icomoon-Experienced_Crew:before {
+    content: "\e930";
+}
+.icomoon-Facebook_icone:before {
+    content: "\e931";
+}
+.icomoon-Fees_icone:before {
+    content: "\e932";
+}
+.icomoon-Flexible_private:before {
+    content: "\e939";
+}
+.icomoon-Group-788:before {
+    content: "\e93a";
+}
+.icomoon-High-salary--bonus:before {
+    content: "\e93b";
+}
+.icomoon-Instagram_icone:before {
+    content: "\e93d";
+}
+.icomoon-Level_iconE:before {
+    content: "\e93e";
+}
+.icomoon-location-icon:before {
+    content: "\e93f";
+}
+.icomoon-luxury-icon:before {
+    content: "\e940";
+}
+.icomoon-mail-icon:before {
+    content: "\e941";
+}
+.icomoon-massage:before {
+    content: "\e942";
+}
+.icomoon-Max_Passenger:before {
+    content: "\e943";
+}
+.icomoon-MAX_RANGE:before {
+    content: "\e944";
+}
+.icomoon-Memories:before {
+    content: "\e945";
+}
+.icomoon-minus_icon:before {
+    content: "\e946";
+}
+.icomoon-Modern_Aircrafts:before {
+    content: "\e947";
+}
+.icomoon-name_icone:before {
+    content: "\e948";
+}
+.icomoon-next-icon:before {
+    content: "\e949";
+}
+.icomoon-Path-960:before {
+    content: "\e94a";
+}
+.icomoon-Person:before {
+    content: "\e94b";
+}
+.icomoon-plus_icon:before {
+    content: "\e94c";
+}
+.icomoon-Private_Jet_Charter:before {
+    content: "\e94d";
+}
+.icomoon-Producing_Icone:before {
+    content: "\e94e";
+}
+.icomoon-Quality-Services:before {
+    content: "\e94f";
+}
+.icomoon-Read_More:before {
+    content: "\e950";
+}
+.icomoon-safety-icon:before {
+    content: "\e951";
+}
+.icomoon-schedule-icon:before {
+    content: "\e952";
+}
+.icomoon-Search:before {
+    content: "\e953";
+}
+.icomoon-sicial-twitter-icone:before {
+    content: "\e954";
+}
+.icomoon-Start_From_icone:before {
+    content: "\e955";
+}
+.icomoon-Tags_menu:before {
+    content: "\e956";
+}
+.icomoon-Take_off_Distance:before {
+    content: "\e957";
+}
+.icomoon-Twitter_icone:before {
+    content: "\e959";
+}
+.icomoon-video-button:before {
+    content: "\e95a";
+}

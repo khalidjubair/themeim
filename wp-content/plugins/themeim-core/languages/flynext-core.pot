@@ -1,0 +1,3248 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeim Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 05:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: themeim-core"
+
+#: wp-widgets/theme-post-category-widget.php:61
+msgid " Oops, there are no category."
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:83
+msgid " Oops, there are no posts."
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:52
+msgid " Oops, there are no tags."
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:218
+msgid " Sub Title Typography"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:212
+msgid " Year Typography"
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:49
+msgid "#"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:94
+msgid "#1 Private Jet Charter"
+msgstr ""
+
+#: admin/theme-menu-page.php:89 admin/theme-menu-page.php:101
+#: admin/theme-menu-page.php:113 admin/theme-menu-page.php:125
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/theme-menu-page.php:94 admin/theme-menu-page.php:106
+#: admin/theme-menu-page.php:118 admin/theme-menu-page.php:130
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:106
+msgid "+"
+msgstr ""
+
+#: elementor/addons/elementor-request-form-widget.php:118
+msgid "+1 814 929 4263"
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:118
+msgid "01 Column"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:108
+#: elementor/addons/elementor-course-single-item-widget.php:107
+#: elementor/addons/elementor-performance-single-item-widget.php:117
+msgid "02 Column"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:110
+#: elementor/addons/elementor-blog-slider-two-widget.php:158
+#: elementor/addons/elementor-course-single-item-widget.php:109
+#: elementor/addons/elementor-deals-single-slider-widget.php:109
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:133
+#: elementor/addons/elementor-packages-single-slider-widget.php:109
+#: elementor/addons/elementor-performance-single-item-widget.php:115
+msgid "03 Column"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:109
+#: elementor/addons/elementor-blog-slider-two-widget.php:157
+#: elementor/addons/elementor-course-single-item-widget.php:108
+#: elementor/addons/elementor-deals-single-slider-widget.php:108
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:132
+#: elementor/addons/elementor-packages-single-slider-widget.php:108
+#: elementor/addons/elementor-performance-single-item-widget.php:114
+msgid "04 Column"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:111
+#: elementor/addons/elementor-blog-slider-two-widget.php:159
+#: elementor/addons/elementor-course-single-item-widget.php:110
+#: elementor/addons/elementor-deals-single-slider-widget.php:110
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:134
+#: elementor/addons/elementor-packages-single-slider-widget.php:110
+#: elementor/addons/elementor-performance-single-item-widget.php:116
+msgid "06 Column"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:142
+msgid "1"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:119
+#: elementor/addons/elementor-testimonial-three-widget.php:168
+#: elementor/addons/elementor-testimonial-two-widget.php:154
+msgid "1 star"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:108
+#: elementor/addons/elementor-accordion-widget.php:143
+msgid "1. Is themeim Luxury and comfort?"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:97
+msgid "12"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:120
+#: elementor/addons/elementor-testimonial-three-widget.php:169
+#: elementor/addons/elementor-testimonial-two-widget.php:155
+msgid "2 star"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:108
+msgid "2012"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:197
+msgid "25"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:121
+#: elementor/addons/elementor-testimonial-three-widget.php:170
+#: elementor/addons/elementor-testimonial-two-widget.php:156
+msgid "3 star"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:122
+#: elementor/addons/elementor-testimonial-three-widget.php:171
+#: elementor/addons/elementor-testimonial-two-widget.php:157
+msgid "4 star"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:123
+#: elementor/addons/elementor-testimonial-three-widget.php:172
+#: elementor/addons/elementor-testimonial-two-widget.php:158
+msgid "5 star"
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:101
+msgid "60"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:115
+msgid "8-800-10-500"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:100
+msgid "90"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:138
+msgid "About Themeim"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:93
+#: wp-widgets/theme-post-tags-menu.php:84
+#: wp-widgets/theme-recent-post-widget.php:120
+msgid "Acceding"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:39
+msgid "Accordion 01"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:138
+msgid "Accordion Item"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:123
+msgid "Accordion List"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:94
+msgid "Accordion Style"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:443
+msgid "Active"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:130 admin/theme-custom-post-type.php:131
+msgid "Add New Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:260
+msgid "Add New Deals Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:95 admin/theme-custom-post-type.php:96
+msgid "Add New Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:237
+msgid "Add New Packages Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:59 admin/theme-custom-post-type.php:60
+msgid "Add New Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:214
+msgid "Add New Service Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:283
+msgid "Add New Team Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:165 admin/theme-custom-post-type.php:166
+msgid "Add New Team Member"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:129
+#: elementor/addons/elementor-counterup-one-widget.php:113
+#: elementor/addons/elementor-empty-div-widget.php:178
+#: elementor/addons/elementor-heading-title-widget.php:171
+#: elementor/addons/elementor-icon-box-one-widget.php:158
+#: elementor/addons/elementor-performance-single-item-widget.php:159
+msgid "Alignment"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:259
+msgid "All Deals Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:236
+msgid "All Packages Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:213
+msgid "All Service Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:282
+msgid "All Team Category"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:104
+msgid "Animation Icon"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:110
+msgid "Animation Icon Left"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:123
+msgid "Animation Icon Right"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:128
+msgid "Animation Icon Three"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:116
+msgid "Animation Icon Two"
+msgstr ""
+
+#: elementor/addons/elementor-request-form-widget.php:157
+msgid "Arrow Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:117
+msgid ""
+"As well as getting to fly to many different destinations as part of their "
+"job, airplane pilots get big discounts on"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:113
+#: elementor/addons/elementor-blog-slider-one-widget.php:164
+#: elementor/addons/elementor-blog-slider-two-widget.php:113
+#: elementor/addons/elementor-course-single-item-widget.php:133
+#: elementor/addons/elementor-deals-single-slider-widget.php:134
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:159
+#: elementor/addons/elementor-packages-single-slider-widget.php:135
+#: elementor/addons/elementor-service-single-item-widget.php:107
+#: elementor/addons/elementor-team-single-item-widget.php:108
+msgid "Ascending"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:464
+msgid "Author Border"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:421
+msgid "Author Meta Background"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:416
+msgid "Author Meta Border"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:385
+#: elementor/addons/elementor-testimonial-three-widget.php:409
+#: elementor/addons/elementor-testimonial-two-widget.php:395
+msgid "Author Padding"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:223
+#: elementor/addons/elementor-blog-slider-two-widget.php:217
+#: elementor/addons/elementor-brand-slider-widget.php:169
+#: elementor/addons/elementor-course-single-item-widget.php:221
+#: elementor/addons/elementor-deals-single-slider-widget.php:186
+#: elementor/addons/elementor-gallery-slider-one-widget.php:166
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:212
+#: elementor/addons/elementor-packages-single-slider-widget.php:188
+#: elementor/addons/elementor-performance-single-item-widget.php:241
+#: elementor/addons/elementor-team-single-item-widget.php:167
+#: elementor/addons/elementor-testimonial-one-widget.php:197
+#: elementor/addons/elementor-testimonial-three-widget.php:226
+#: elementor/addons/elementor-testimonial-two-widget.php:212
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:290
+#: elementor/addons/elementor-blog-slider-two-widget.php:284
+#: elementor/addons/elementor-brand-slider-widget.php:178
+#: elementor/addons/elementor-course-single-item-widget.php:300
+#: elementor/addons/elementor-deals-single-slider-widget.php:265
+#: elementor/addons/elementor-gallery-slider-one-widget.php:249
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:288
+#: elementor/addons/elementor-packages-single-slider-widget.php:264
+#: elementor/addons/elementor-performance-single-item-widget.php:302
+#: elementor/addons/elementor-team-single-item-widget.php:228
+#: elementor/addons/elementor-testimonial-one-widget.php:267
+#: elementor/addons/elementor-testimonial-three-widget.php:309
+#: elementor/addons/elementor-testimonial-two-widget.php:295
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:202
+#: elementor/addons/elementor-accordion-widget.php:248
+#: elementor/addons/elementor-benefit-single-item-widget.php:188
+#: elementor/addons/elementor-blog-slider-one-widget.php:426
+#: elementor/addons/elementor-blog-slider-one-widget.php:447
+#: elementor/addons/elementor-blog-slider-two-widget.php:399
+#: elementor/addons/elementor-blog-slider-two-widget.php:420
+#: elementor/addons/elementor-counterup-two-widget.php:279
+#: elementor/addons/elementor-course-single-item-widget.php:534
+#: elementor/addons/elementor-course-single-item-widget.php:567
+#: elementor/addons/elementor-deals-single-slider-widget.php:432
+#: elementor/addons/elementor-deals-single-slider-widget.php:465
+#: elementor/addons/elementor-empty-div-widget.php:99
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:462
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:495
+#: elementor/addons/elementor-packages-single-slider-widget.php:451
+#: elementor/addons/elementor-packages-single-slider-widget.php:484
+#: elementor/addons/elementor-performance-single-item-widget.php:360
+#: elementor/addons/elementor-request-form-widget.php:136
+#: elementor/addons/elementor-team-single-item-widget.php:260
+#: elementor/addons/elementor-team-single-item-widget.php:297
+#: elementor/addons/elementor-team-single-item-widget.php:321
+#: elementor/addons/elementor-testimonial-one-widget.php:304
+#: elementor/addons/elementor-testimonial-three-widget.php:337
+#: elementor/addons/elementor-testimonial-two-widget.php:323
+msgid "Background"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:351
+#: elementor/addons/elementor-blog-slider-one-widget.php:381
+#: elementor/addons/elementor-call-to-action-item-widget.php:162
+#: elementor/addons/elementor-call-to-action-item-widget.php:208
+#: elementor/addons/elementor-deals-single-slider-widget.php:306
+#: elementor/addons/elementor-icon-box-one-widget.php:291
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:337
+#: elementor/addons/elementor-packages-single-slider-widget.php:314
+#: elementor/addons/elementor-service-single-item-widget.php:169
+#: elementor/addons/elementor-single-skill-item-widget.php:146
+#: elementor/addons/elementor-single-skill-item-widget.php:175
+msgid "Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:134
+msgid "Background Hover Image Settings"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:143
+#: elementor/addons/elementor-header-slider-one-widget.php:92
+#: elementor/addons/elementor-header-slider-two-widget.php:92
+#: elementor/addons/elementor-icon-box-one-widget.php:232
+#: elementor/addons/elementor-icon-box-one-widget.php:502
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:373
+#: elementor/addons/elementor-packages-single-slider-widget.php:361
+#: elementor/addons/elementor-single-skill-item-widget.php:107
+msgid "Background Image"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:39
+msgid "Benefit Single Item : 01"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:260
+msgid "Best Food Quality"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:129
+msgid "Black"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:86
+msgid "Blog Category"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:112
+msgid "Blog Post Type"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:93
+#: elementor/addons/elementor-performance-single-item-widget.php:99
+msgid "Blog Style System"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:77
+msgid "Blog Tags"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-two-widget.php:39
+msgid "Blog: Item 02"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:39
+msgid "Blog: List Item"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:39
+msgid "Blog: Slider 01"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:160
+#: elementor/addons/elementor-header-slider-two-widget.php:113
+msgid "Book a private jet instantly"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:120
+#: elementor/addons/elementor-deals-single-slider-widget.php:583
+#: elementor/addons/elementor-deals-single-slider-widget.php:626
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:615
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:661
+#: elementor/addons/elementor-packages-single-slider-widget.php:606
+#: elementor/addons/elementor-packages-single-slider-widget.php:653
+msgid "Book Now"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:268
+#: elementor/addons/elementor-call-to-action-item-widget.php:296
+#: elementor/addons/elementor-counterup-two-widget.php:297
+#: elementor/addons/elementor-course-single-item-widget.php:443
+#: elementor/addons/elementor-header-slider-one-widget.php:347
+#: elementor/addons/elementor-header-slider-one-widget.php:392
+#: elementor/addons/elementor-header-slider-two-widget.php:439
+#: elementor/addons/elementor-header-slider-two-widget.php:477
+#: elementor/addons/elementor-icon-box-one-widget.php:213
+#: elementor/addons/elementor-testimonial-one-widget.php:332
+#: elementor/addons/elementor-testimonial-three-widget.php:356
+#: elementor/addons/elementor-testimonial-two-widget.php:342
+msgid "Border"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:177
+#: elementor/addons/elementor-blog-slider-one-widget.php:358
+#: elementor/addons/elementor-blog-slider-one-widget.php:388
+#: elementor/addons/elementor-call-to-action-item-widget.php:169
+#: elementor/addons/elementor-course-single-item-widget.php:523
+#: elementor/addons/elementor-course-single-item-widget.php:556
+#: elementor/addons/elementor-deals-single-slider-widget.php:421
+#: elementor/addons/elementor-deals-single-slider-widget.php:454
+#: elementor/addons/elementor-our-history-item-widget.php:184
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:451
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:484
+#: elementor/addons/elementor-packages-single-slider-widget.php:440
+#: elementor/addons/elementor-packages-single-slider-widget.php:473
+#: elementor/addons/elementor-service-list-item-widget.php:239
+msgid "Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:309
+#: elementor/addons/elementor-course-single-item-widget.php:480
+#: elementor/addons/elementor-header-slider-one-widget.php:403
+#: elementor/addons/elementor-header-slider-two-widget.php:488
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:316
+msgid "Box Border"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:220
+msgid "Box Border Radius"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:263
+#: elementor/addons/elementor-course-single-item-widget.php:403
+#: elementor/addons/elementor-icon-box-one-widget.php:241
+#: elementor/addons/elementor-icon-box-one-widget.php:301
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:332
+#: elementor/addons/elementor-packages-single-slider-widget.php:309
+#: elementor/addons/elementor-testimonial-one-widget.php:323
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:183
+msgid "Box Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-brand-slider-widget.php:39
+msgid "Brand Carousel One"
+msgstr ""
+
+#: elementor/addons/elementor-brand-slider-widget.php:105
+msgid "Brand Slider Item"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:260
+#: elementor/addons/elementor-call-to-action-item-widget.php:288
+#: elementor/addons/elementor-course-single-item-widget.php:436
+#: elementor/addons/elementor-course-single-item-widget.php:465
+#: elementor/addons/elementor-header-slider-one-widget.php:339
+#: elementor/addons/elementor-header-slider-one-widget.php:384
+#: elementor/addons/elementor-header-slider-two-widget.php:431
+#: elementor/addons/elementor-header-slider-two-widget.php:469
+msgid "Button Background "
+msgstr ""
+
+#: elementor/addons/elementor-request-form-widget.php:142
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-widget.php:349
+msgid "Button Border Radius"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:249
+#: elementor/addons/elementor-call-to-action-item-widget.php:277
+#: elementor/addons/elementor-course-single-item-widget.php:424
+#: elementor/addons/elementor-course-single-item-widget.php:453
+#: elementor/addons/elementor-deals-single-slider-widget.php:349
+#: elementor/addons/elementor-header-slider-one-widget.php:328
+#: elementor/addons/elementor-header-slider-one-widget.php:373
+#: elementor/addons/elementor-header-slider-two-widget.php:420
+#: elementor/addons/elementor-header-slider-two-widget.php:458
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:379
+#: elementor/addons/elementor-packages-single-slider-widget.php:367
+#: elementor/addons/elementor-request-form-widget.php:149
+#: elementor/addons/elementor-service-list-item-widget.php:198
+msgid "Button Color"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:274
+#: elementor/addons/elementor-course-single-item-widget.php:450
+#: elementor/addons/elementor-header-slider-one-widget.php:370
+#: elementor/addons/elementor-header-slider-two-widget.php:455
+msgid "Button Hover"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:379
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:409
+#: elementor/addons/elementor-packages-single-slider-widget.php:397
+#: elementor/addons/elementor-service-list-item-widget.php:205
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:124
+msgid "Button Link"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:246
+#: elementor/addons/elementor-course-single-item-widget.php:421
+#: elementor/addons/elementor-header-slider-one-widget.php:325
+#: elementor/addons/elementor-header-slider-two-widget.php:417
+msgid "Button Normal"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:361
+#: elementor/addons/elementor-packages-single-slider-widget.php:338
+msgid "Button Padding"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:240
+#: elementor/addons/elementor-course-single-item-widget.php:415
+#: elementor/addons/elementor-header-slider-one-widget.php:319
+#: elementor/addons/elementor-header-slider-two-widget.php:411
+msgid "Button Settings"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:174
+#: elementor/addons/elementor-header-slider-two-widget.php:135
+msgid "Button Show/Hide"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:118
+#: elementor/addons/elementor-header-slider-one-widget.php:182
+#: elementor/addons/elementor-header-slider-one-widget.php:210
+#: elementor/addons/elementor-header-slider-two-widget.php:143
+#: elementor/addons/elementor-header-slider-two-widget.php:171
+#: elementor/addons/elementor-header-slider-two-widget.php:332
+msgid "Button Text"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:202
+#: elementor/addons/elementor-header-slider-two-widget.php:163
+msgid "Button Two Show/Hide"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:492
+#: elementor/addons/elementor-header-slider-one-widget.php:431
+#: elementor/addons/elementor-header-slider-two-widget.php:640
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:522
+#: elementor/addons/elementor-packages-single-slider-widget.php:511
+#: elementor/addons/elementor-service-list-item-widget.php:342
+msgid "Button Typography"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:191
+#: elementor/addons/elementor-header-slider-one-widget.php:219
+#: elementor/addons/elementor-header-slider-two-widget.php:152
+#: elementor/addons/elementor-header-slider-two-widget.php:180
+msgid "Button URL"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:106
+msgid "Call for book an order"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:39
+msgid "Call To Action: 01"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:78
+#: elementor/addons/elementor-blog-slider-list-widget.php:103
+#: elementor/addons/elementor-blog-slider-one-widget.php:154
+#: elementor/addons/elementor-blog-slider-two-widget.php:103
+#: elementor/addons/elementor-course-single-item-widget.php:123
+#: elementor/addons/elementor-deals-single-slider-widget.php:124
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:149
+#: elementor/addons/elementor-packages-single-slider-widget.php:125
+#: elementor/addons/elementor-service-single-item-widget.php:97
+#: elementor/addons/elementor-team-single-item-widget.php:98
+msgid "Category"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:337
+#: elementor/addons/elementor-blog-slider-two-widget.php:331
+msgid "Category Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:474
+#: elementor/addons/elementor-blog-slider-two-widget.php:447
+msgid "Category Typography"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:137
+#: elementor/addons/elementor-counterup-one-widget.php:121
+#: elementor/addons/elementor-empty-div-widget.php:186
+#: elementor/addons/elementor-gallery-slider-one-widget.php:218
+#: elementor/addons/elementor-heading-title-widget.php:179
+#: elementor/addons/elementor-icon-box-one-widget.php:166
+#: elementor/addons/elementor-performance-single-item-widget.php:167
+#: elementor/addons/elementor-performance-single-item-widget.php:293
+#: elementor/addons/elementor-team-single-item-widget.php:219
+#: elementor/addons/elementor-testimonial-one-widget.php:258
+#: elementor/addons/elementor-testimonial-three-widget.php:278
+#: elementor/addons/elementor-testimonial-two-widget.php:264
+msgid "Center"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:133
+#: elementor/addons/elementor-blog-slider-two-widget.php:181
+#: elementor/addons/elementor-course-single-item-widget.php:184
+msgid "Center Align"
+msgstr ""
+
+#: elementor/addons/elementor-gallery-slider-one-widget.php:227
+#: elementor/addons/elementor-testimonial-three-widget.php:287
+#: elementor/addons/elementor-testimonial-two-widget.php:273
+msgid "Center Padding"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:39
+msgid "Choose Single Item"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:509
+#: elementor/addons/elementor-video-hover-widget.php:168
+msgid "Circle Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:419
+#: elementor/addons/elementor-blog-slider-one-widget.php:440
+#: elementor/addons/elementor-blog-slider-two-widget.php:392
+#: elementor/addons/elementor-blog-slider-two-widget.php:413
+#: elementor/addons/elementor-course-single-item-widget.php:515
+#: elementor/addons/elementor-course-single-item-widget.php:548
+#: elementor/addons/elementor-deals-single-slider-widget.php:413
+#: elementor/addons/elementor-deals-single-slider-widget.php:446
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:443
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:476
+#: elementor/addons/elementor-packages-single-slider-widget.php:432
+#: elementor/addons/elementor-packages-single-slider-widget.php:465
+msgid "Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:105
+#: elementor/addons/elementor-blog-slider-two-widget.php:154
+#: elementor/addons/elementor-course-single-item-widget.php:104
+#: elementor/addons/elementor-deals-single-slider-widget.php:105
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:129
+#: elementor/addons/elementor-packages-single-slider-widget.php:105
+#: elementor/addons/elementor-performance-single-item-widget.php:111
+msgid "Column"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:304
+msgid "Connect With Adam & Start Learning"
+msgstr ""
+
+#: wp-widgets/theme-request-form-widget.php:35
+msgid "Contact Form"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:361
+msgid "Content Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:311
+#: elementor/addons/elementor-testimonial-two-widget.php:330
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:155
+#: elementor/addons/elementor-deals-single-slider-widget.php:291
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:314
+#: elementor/addons/elementor-packages-single-slider-widget.php:291
+msgid "Content Styling"
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:186
+#: elementor/addons/elementor-testimonial-one-widget.php:142
+#: elementor/addons/elementor-testimonial-two-widget.php:177
+msgid ""
+"Convallis convallis tellus id interdum velit laoreet id donec ultrices. the "
+"for pulvinar neque laoreet suspendisse interdum consectetur libero id. cras "
+"adipiscing enim eu turpis."
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:97
+msgid "Count Number"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:39
+msgid "Counterup: 01"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:47
+msgid "Counterup: 02"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:354
+msgid "Course Duration Color"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:25
+msgid "Course Instructor"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:39
+msgid "Course Item 01"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:347
+msgid "Course Price Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:340
+msgid "Course Price Color"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:89
+msgid "Courses Category"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:116
+msgid "Courses Post Type"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:92
+msgid "Courses Style System"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:80
+msgid "Courses Tags"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:201
+msgid "Craft Image"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:212
+msgid "Craft Shape Image"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:191
+msgid "Cricle Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:198
+msgid "Cricle Line Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:117
+msgid "Criminal Law"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:168
+#: elementor/addons/elementor-header-slider-two-widget.php:129
+msgid ""
+"Curly Airline proudly raises the bar and exceeds the standard for luxury and "
+"corporate private jet charter services. We pride ourselves on offering a "
+"professional service."
+msgstr ""
+
+#: admin/theme-post-column-customize.php:70
+#: admin/theme-post-column-customize.php:132
+#: admin/theme-post-column-customize.php:194
+#: admin/theme-post-column-customize.php:256
+#: wp-widgets/theme-post-category-widget.php:99
+#: wp-widgets/theme-post-tags-menu.php:90
+#: wp-widgets/theme-recent-post-widget.php:127
+#: elementor/addons/elementor-blog-slider-list-widget.php:125
+#: elementor/addons/elementor-blog-slider-one-widget.php:176
+#: elementor/addons/elementor-blog-slider-two-widget.php:125
+#: elementor/addons/elementor-course-single-item-widget.php:145
+#: elementor/addons/elementor-deals-single-slider-widget.php:146
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:171
+#: elementor/addons/elementor-packages-single-slider-widget.php:147
+#: elementor/addons/elementor-service-single-item-widget.php:119
+#: elementor/addons/elementor-team-single-item-widget.php:120
+msgid "Date"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:609
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:655
+#: elementor/addons/elementor-packages-single-slider-widget.php:599
+#: elementor/addons/elementor-packages-single-slider-widget.php:647
+msgid "Date :"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:122 admin/theme-custom-post-type.php:123
+#: admin/theme-custom-post-type.php:127 admin/theme-custom-post-type.php:128
+msgid "Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:256 admin/theme-custom-post-type.php:257
+#: admin/theme-custom-post-type.php:258
+#: wp-widgets/theme-post-category-widget.php:88
+msgid "Deals Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:137
+msgid "Deals Image"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:114
+msgid "Deals Post Type"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:39
+msgid "Deals Single Slider"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:93
+msgid "Deals Style System"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:79
+msgid "Deals Tags"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:94
+#: wp-widgets/theme-post-tags-menu.php:85
+#: wp-widgets/theme-recent-post-widget.php:121
+#: elementor/addons/elementor-blog-slider-list-widget.php:114
+#: elementor/addons/elementor-blog-slider-one-widget.php:165
+#: elementor/addons/elementor-blog-slider-two-widget.php:114
+#: elementor/addons/elementor-course-single-item-widget.php:134
+#: elementor/addons/elementor-deals-single-slider-widget.php:135
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:160
+#: elementor/addons/elementor-packages-single-slider-widget.php:136
+#: elementor/addons/elementor-service-single-item-widget.php:108
+#: elementor/addons/elementor-team-single-item-widget.php:109
+msgid "Descending"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:131
+#: elementor/addons/elementor-benefit-single-item-widget.php:120
+#: elementor/addons/elementor-call-to-action-item-widget.php:112
+#: elementor/addons/elementor-choose-single-item-one-widget.php:113
+#: elementor/addons/elementor-header-slider-one-widget.php:166
+#: elementor/addons/elementor-header-slider-two-widget.php:127
+#: elementor/addons/elementor-header-slider-two-widget.php:289
+#: elementor/addons/elementor-heading-title-widget.php:161
+#: elementor/addons/elementor-icon-box-one-widget.php:149
+#: elementor/addons/elementor-our-history-item-widget.php:123
+#: elementor/addons/elementor-performance-single-item-widget.php:150
+#: elementor/addons/elementor-service-list-item-widget.php:146
+#: elementor/addons/elementor-testimonial-one-widget.php:130
+#: elementor/addons/elementor-testimonial-three-widget.php:179
+#: elementor/addons/elementor-testimonial-two-widget.php:165
+msgid "Description"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:339
+#: elementor/addons/elementor-testimonial-three-widget.php:363
+#: elementor/addons/elementor-testimonial-two-widget.php:349
+msgid "Description Bottom Gap"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:184
+#: elementor/addons/elementor-choose-single-item-one-widget.php:215
+#: elementor/addons/elementor-deals-single-slider-widget.php:328
+#: elementor/addons/elementor-deals-single-slider-widget.php:372
+#: elementor/addons/elementor-heading-title-widget.php:260
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:352
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:402
+#: elementor/addons/elementor-packages-single-slider-widget.php:329
+#: elementor/addons/elementor-packages-single-slider-widget.php:390
+#: elementor/addons/elementor-testimonial-one-widget.php:427
+#: elementor/addons/elementor-testimonial-three-widget.php:446
+#: elementor/addons/elementor-testimonial-two-widget.php:432
+msgid "Description Color"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:153
+msgid "Description Show/Hide"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:247
+#: elementor/addons/elementor-deals-single-slider-widget.php:497
+#: elementor/addons/elementor-heading-title-widget.php:302
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:527
+#: elementor/addons/elementor-packages-single-slider-widget.php:516
+#: elementor/addons/elementor-testimonial-one-widget.php:485
+#: elementor/addons/elementor-testimonial-three-widget.php:479
+#: elementor/addons/elementor-testimonial-two-widget.php:458
+msgid "Description Typography"
+msgstr ""
+
+#: elementor/addons/elementor-team-single-item-widget.php:273
+#: elementor/addons/elementor-testimonial-three-widget.php:453
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/addons/elementor-team-single-item-widget.php:348
+#: elementor/addons/elementor-testimonial-three-widget.php:484
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:318
+msgid "Details Menu Typography Styling Settings"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:18
+#: wp-widgets/theme-post-tags-menu.php:20
+msgid "Display  categories"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:19
+#: wp-widgets/theme-post-search-widget.php:19
+msgid "Display about me widget"
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:19
+msgid "Display about us widget"
+msgstr ""
+
+#: wp-widgets/theme-contact-info-widget.php:18
+msgid "Display contact info widget"
+msgstr ""
+
+#: wp-widgets/theme-request-form-widget.php:19
+msgid "Display Request Form widget"
+msgstr ""
+
+#: wp-widgets/theme-social-share-widget.php:19
+msgid "Display Social Share widget"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:23
+msgid "Display your recent posts, with a thumbnail."
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:365
+msgid "Dot Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-gallery-slider-one-widget.php:183
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:255
+#: elementor/addons/elementor-packages-single-slider-widget.php:231
+#: elementor/addons/elementor-performance-single-item-widget.php:258
+#: elementor/addons/elementor-team-single-item-widget.php:184
+#: elementor/addons/elementor-testimonial-one-widget.php:214
+#: elementor/addons/elementor-testimonial-three-widget.php:243
+#: elementor/addons/elementor-testimonial-two-widget.php:229
+msgid "Dots"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:134
+#: elementor/addons/elementor-our-history-item-widget.php:141
+msgid ""
+"Duis aute irure dolor reprehenderit in voluptate velit essle cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint ocaec at cupdatat proident suntin "
+"culpa qui officia deserunt mol anim id esa laborum perspiciat."
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-widget.php:643
+msgid "Duration :"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-widget.php:595
+msgid "Duration:"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:132
+msgid "Edit Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:97
+msgid "Edit Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:61
+msgid "Edit Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:167
+msgid "Edit Team"
+msgstr ""
+
+#: elementor/addons/elementor-empty-div-widget.php:39
+msgid "Empty Div"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:163
+msgid "enter  description."
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:129
+msgid "enter button link"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:121
+#: elementor/addons/elementor-header-slider-one-widget.php:185
+#: elementor/addons/elementor-header-slider-one-widget.php:213
+#: elementor/addons/elementor-header-slider-two-widget.php:146
+#: elementor/addons/elementor-header-slider-two-widget.php:174
+msgid "enter button text"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:196
+#: elementor/addons/elementor-header-slider-one-widget.php:224
+#: elementor/addons/elementor-header-slider-two-widget.php:157
+#: elementor/addons/elementor-header-slider-two-widget.php:185
+msgid "enter button url"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:101
+#: elementor/addons/elementor-counterup-two-widget.php:199
+msgid "enter counterup number"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:107
+#: elementor/addons/elementor-counterup-two-widget.php:211
+msgid "enter counterup sign"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:125
+#: elementor/addons/elementor-service-list-item-widget.php:148
+msgid "Enter description"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:114
+#: elementor/addons/elementor-header-slider-one-widget.php:153
+#: elementor/addons/elementor-header-slider-one-widget.php:169
+#: elementor/addons/elementor-header-slider-two-widget.php:106
+#: elementor/addons/elementor-header-slider-two-widget.php:122
+#: elementor/addons/elementor-header-slider-two-widget.php:130
+#: elementor/addons/elementor-testimonial-one-widget.php:132
+#: elementor/addons/elementor-testimonial-three-widget.php:181
+#: elementor/addons/elementor-testimonial-two-widget.php:167
+msgid "enter description"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:116
+msgid "enter description."
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:125
+msgid "enter link"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:105
+#: elementor/addons/elementor-testimonial-three-widget.php:140
+#: elementor/addons/elementor-testimonial-two-widget.php:140
+msgid "enter name"
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:100
+msgid "enter number."
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:93
+#: elementor/addons/elementor-blog-slider-one-widget.php:144
+#: elementor/addons/elementor-blog-slider-two-widget.php:93
+msgid "enter read button text"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:96
+msgid "enter sub title."
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:133
+#: elementor/addons/elementor-benefit-single-item-widget.php:122
+#: elementor/addons/elementor-header-slider-two-widget.php:291
+#: elementor/addons/elementor-header-slider-two-widget.php:334
+#: elementor/addons/elementor-icon-box-one-widget.php:141
+#: elementor/addons/elementor-icon-box-one-widget.php:151
+#: elementor/addons/elementor-performance-single-item-widget.php:152
+msgid "enter text."
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:118
+#: elementor/addons/elementor-request-form-widget.php:117
+#: elementor/addons/elementor-service-list-item-widget.php:106
+#: elementor/addons/elementor-service-list-item-widget.php:130
+#: elementor/addons/elementor-service-list-item-widget.php:139
+msgid "Enter title"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:95
+#: elementor/addons/elementor-counterup-two-widget.php:187
+#: elementor/addons/elementor-header-slider-one-widget.php:161
+#: elementor/addons/elementor-header-slider-two-widget.php:114
+msgid "enter title"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:107
+#: elementor/addons/elementor-benefit-single-item-widget.php:101
+#: elementor/addons/elementor-call-to-action-item-widget.php:94
+#: elementor/addons/elementor-call-to-action-item-widget.php:105
+#: elementor/addons/elementor-choose-single-item-one-widget.php:106
+#: elementor/addons/elementor-header-slider-two-widget.php:259
+#: elementor/addons/elementor-header-slider-two-widget.php:303
+#: elementor/addons/elementor-icon-box-one-widget.php:95
+#: elementor/addons/elementor-performance-single-item-widget.php:131
+#: elementor/addons/elementor-single-skill-item-widget.php:90
+msgid "enter title."
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:139
+#: elementor/addons/elementor-service-list-item-widget.php:97
+msgid "enter title. use {c} color text {/c} for color text"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:227
+#: elementor/addons/elementor-header-slider-two-widget.php:268
+#: elementor/addons/elementor-header-slider-two-widget.php:323
+#: elementor/addons/elementor-icon-box-one-widget.php:104
+#: elementor/addons/elementor-video-hover-widget.php:129
+msgid "enter url."
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:111
+msgid "Enter Year"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:24
+#: wp-widgets/theme-request-form-widget.php:29
+#: wp-widgets/theme-social-share-widget.php:24
+msgid "Enter Your Header Title"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:41
+#: wp-widgets/theme-social-share-widget.php:41
+msgid "Enter Your Ulr"
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:48
+msgid "Enter Your Url"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:133
+#: elementor/addons/elementor-blog-slider-one-widget.php:184
+#: elementor/addons/elementor-blog-slider-two-widget.php:133
+#: elementor/addons/elementor-course-single-item-widget.php:153
+#: elementor/addons/elementor-service-single-item-widget.php:127
+msgid "Excerpt Length"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:168
+msgid "Expanded Style"
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:91
+msgid "Experience"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:119
+msgid "Feature Title"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:630
+msgid "Feature Typography"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:103
+msgid "Find the Best Service For You"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:139
+msgid "First case"
+msgstr ""
+
+#: elementor/elementor-widget-init.php:120 inc/theme-core-init.php:417
+msgid "Flaticon"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:123
+#: elementor/addons/elementor-performance-single-item-widget.php:153
+msgid ""
+"Flying should be a pleasure and we’ll make your charter experience as "
+"luxurious and comfortable as possible."
+msgstr ""
+
+#: admin/theme-menu-page.php:64
+#: elementor/addons/elementor-header-slider-one-widget.php:152
+#: elementor/addons/elementor-header-slider-two-widget.php:105
+#: elementor/addons/elementor-header-slider-two-widget.php:121
+msgid "Themeim"
+msgstr ""
+
+#. Name of the plugin
+msgid "Themeim Core"
+msgstr ""
+
+#: admin/theme-menu-page.php:63
+msgid "Themeim Page"
+msgstr ""
+
+#: elementor/elementor-widget-init.php:57
+msgid "Themeim Widgets"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:17
+msgid "Themeim:  Category"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:17
+msgid "Themeim: About Me"
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:17
+msgid "Themeim: About Us"
+msgstr ""
+
+#: wp-widgets/theme-contact-info-widget.php:17
+msgid "Themeim: Contact Info"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:22
+msgid "Themeim: Recent Posts with Thumbnails"
+msgstr ""
+
+#: wp-widgets/theme-request-form-widget.php:17
+msgid "Themeim: Request Form"
+msgstr ""
+
+#: wp-widgets/theme-social-share-widget.php:17
+msgid "Themeim: Social Share"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:19
+msgid "Themeim: Tags"
+msgstr ""
+
+#: wp-widgets/theme-post-search-widget.php:17
+msgid "Foodfly Post Search"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:140
+msgid "Found case"
+msgstr ""
+
+#: elementor/addons/elementor-gallery-slider-one-widget.php:39
+msgid "Gallery Carousel One"
+msgstr ""
+
+#: elementor/addons/elementor-gallery-slider-one-widget.php:105
+msgid "Gallery Slider Item"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:86
+#: elementor/addons/elementor-benefit-single-item-widget.php:92
+#: elementor/addons/elementor-blog-slider-list-widget.php:86
+#: elementor/addons/elementor-blog-slider-one-widget.php:86
+#: elementor/addons/elementor-blog-slider-two-widget.php:86
+#: elementor/addons/elementor-blog-slider-two-widget.php:147
+#: elementor/addons/elementor-brand-slider-widget.php:91
+#: elementor/addons/elementor-call-to-action-item-widget.php:86
+#: elementor/addons/elementor-choose-single-item-one-widget.php:86
+#: elementor/addons/elementor-counterup-one-widget.php:86
+#: elementor/addons/elementor-counterup-two-widget.php:108
+#: elementor/addons/elementor-course-single-item-widget.php:85
+#: elementor/addons/elementor-deals-single-slider-widget.php:86
+#: elementor/addons/elementor-empty-div-widget.php:91
+#: elementor/addons/elementor-gallery-slider-one-widget.php:91
+#: elementor/addons/elementor-heading-title-widget.php:91
+#: elementor/addons/elementor-icon-box-one-widget.php:86
+#: elementor/addons/elementor-our-history-item-widget.php:102
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:110
+#: elementor/addons/elementor-packages-single-slider-widget.php:86
+#: elementor/addons/elementor-performance-single-item-widget.php:92
+#: elementor/addons/elementor-service-list-item-widget.php:87
+#: elementor/addons/elementor-service-single-item-widget.php:86
+#: elementor/addons/elementor-single-skill-item-widget.php:80
+#: elementor/addons/elementor-testimonial-one-widget.php:92
+#: elementor/addons/elementor-testimonial-three-widget.php:92
+#: elementor/addons/elementor-testimonial-two-widget.php:92
+#: elementor/addons/elementor-video-hover-widget.php:118
+#: elementor/addons/elementor-video-hover-widget.php:157
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-core-helper-functions.php:602
+msgid "Get Enrolled"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:97
+#: elementor/addons/elementor-course-single-item-widget.php:96
+#: elementor/addons/elementor-deals-single-slider-widget.php:97
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:121
+#: elementor/addons/elementor-packages-single-slider-widget.php:97
+#: elementor/addons/elementor-performance-single-item-widget.php:103
+msgid "Grid System"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:86
+msgid "Header Left Section Contents"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:195
+msgid "Header Right Section Contents"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:39
+msgid "Header Slider: 01"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:39
+msgid "Header Slider: 02"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:39
+msgid "Heading Title: 01"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:134
+msgid "History Items"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:47
+msgid "History Single Item"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:188
+#: elementor/addons/elementor-blog-slider-one-widget.php:369
+#: elementor/addons/elementor-blog-slider-one-widget.php:436
+#: elementor/addons/elementor-blog-slider-two-widget.php:356
+#: elementor/addons/elementor-blog-slider-two-widget.php:409
+#: elementor/addons/elementor-call-to-action-item-widget.php:196
+#: elementor/addons/elementor-choose-single-item-one-widget.php:196
+#: elementor/addons/elementor-course-single-item-widget.php:388
+#: elementor/addons/elementor-course-single-item-widget.php:543
+#: elementor/addons/elementor-deals-single-slider-widget.php:361
+#: elementor/addons/elementor-deals-single-slider-widget.php:441
+#: elementor/addons/elementor-icon-box-one-widget.php:287
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:391
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:471
+#: elementor/addons/elementor-packages-single-slider-widget.php:379
+#: elementor/addons/elementor-packages-single-slider-widget.php:460
+#: elementor/addons/elementor-service-list-item-widget.php:265
+#: elementor/addons/elementor-service-single-item-widget.php:196
+#: elementor/addons/elementor-single-skill-item-widget.php:157
+#: elementor/addons/elementor-team-single-item-widget.php:314
+#: elementor/addons/elementor-video-hover-widget.php:438
+msgid "Hover"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:257
+msgid "https://example.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/themeim/portfolio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeim.com/"
+msgstr ""
+
+#: admin/theme-post-column-customize.php:69
+#: admin/theme-post-column-customize.php:98
+#: admin/theme-post-column-customize.php:131
+#: admin/theme-post-column-customize.php:160
+#: admin/theme-post-column-customize.php:193
+#: admin/theme-post-column-customize.php:222
+#: admin/theme-post-column-customize.php:255
+#: admin/theme-post-column-customize.php:284
+#: wp-widgets/theme-about-me-widget.php:35
+#: wp-widgets/theme-about-us-widget.php:42
+#: wp-widgets/theme-social-share-widget.php:35
+#: elementor/addons/elementor-benefit-single-item-widget.php:108
+#: elementor/addons/elementor-counterup-two-widget.php:149
+#: elementor/addons/elementor-header-slider-one-widget.php:242
+#: elementor/addons/elementor-header-slider-two-widget.php:237
+#: elementor/addons/elementor-header-slider-two-widget.php:277
+#: elementor/addons/elementor-icon-box-one-widget.php:126
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:95
+#: elementor/addons/elementor-performance-single-item-widget.php:138
+#: elementor/addons/elementor-request-form-widget.php:105
+#: elementor/addons/elementor-video-hover-widget.php:139
+msgid "Icon"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:195
+#: elementor/addons/elementor-accordion-widget.php:241
+#: elementor/addons/elementor-icon-box-one-widget.php:306
+#: elementor/addons/elementor-video-hover-widget.php:417
+#: elementor/addons/elementor-video-hover-widget.php:460
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-video-hover-widget.php:403
+msgid "Icon Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:348
+msgid "Icon Border Radius"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:250
+msgid "Icon Box General Settings"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:39
+msgid "Icon Box: 01"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:160
+#: elementor/addons/elementor-performance-single-item-widget.php:332
+msgid "Icon Circle Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:188
+#: elementor/addons/elementor-accordion-widget.php:234
+#: elementor/addons/elementor-benefit-single-item-widget.php:167
+#: elementor/addons/elementor-counterup-two-widget.php:306
+#: elementor/addons/elementor-header-slider-two-widget.php:517
+#: elementor/addons/elementor-header-slider-two-widget.php:526
+#: elementor/addons/elementor-icon-box-one-widget.php:313
+#: elementor/addons/elementor-icon-box-one-widget.php:491
+#: elementor/addons/elementor-performance-single-item-widget.php:339
+#: elementor/addons/elementor-service-single-item-widget.php:162
+#: elementor/addons/elementor-team-single-item-widget.php:303
+#: elementor/addons/elementor-team-single-item-widget.php:327
+#: elementor/addons/elementor-testimonial-three-widget.php:431
+#: elementor/addons/elementor-testimonial-two-widget.php:417
+#: elementor/addons/elementor-video-hover-widget.php:182
+#: elementor/addons/elementor-video-hover-widget.php:196
+#: elementor/addons/elementor-video-hover-widget.php:389
+#: elementor/addons/elementor-video-hover-widget.php:446
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:360
+msgid "Icon Height"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:201
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:433
+msgid "Icon Margin Bottom"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:456
+msgid "Icon Margin Left"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:406
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:341
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:383
+msgid "Icon Width"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:97
+#: wp-widgets/theme-post-tags-menu.php:88
+#: wp-widgets/theme-recent-post-widget.php:125
+#: elementor/addons/elementor-blog-slider-list-widget.php:123
+#: elementor/addons/elementor-blog-slider-one-widget.php:174
+#: elementor/addons/elementor-blog-slider-two-widget.php:123
+#: elementor/addons/elementor-course-single-item-widget.php:143
+#: elementor/addons/elementor-deals-single-slider-widget.php:144
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:169
+#: elementor/addons/elementor-packages-single-slider-widget.php:145
+#: elementor/addons/elementor-service-single-item-widget.php:117
+#: elementor/addons/elementor-team-single-item-widget.php:118
+msgid "ID"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:122
+msgid ""
+"If you are accused of lot of committing a crime you need. Qui ipsorum lingua "
+"Celtae, nostra Galli appellantur"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:113
+#: elementor/addons/elementor-brand-slider-widget.php:99
+#: elementor/addons/elementor-call-to-action-item-widget.php:92
+#: elementor/addons/elementor-gallery-slider-one-widget.php:99
+#: elementor/addons/elementor-our-history-item-widget.php:129
+msgid "Image"
+msgstr ""
+
+#: wp-widgets/theme-contact-info-widget.php:41
+msgid "Info"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:361
+msgid "Info Button Number Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:354
+msgid "Info Button Text Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:441
+msgid "Info number Typography"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:436
+msgid "Info Text Typography"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:94
+msgid "Instruction rating"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:151
+msgid "Item Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:206
+#: elementor/addons/elementor-blog-slider-two-widget.php:200
+#: elementor/addons/elementor-brand-slider-widget.php:129
+#: elementor/addons/elementor-course-single-item-widget.php:204
+#: elementor/addons/elementor-deals-single-slider-widget.php:169
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:194
+#: elementor/addons/elementor-packages-single-slider-widget.php:170
+msgid "Items"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:106
+#: elementor/addons/elementor-testimonial-three-widget.php:141
+#: elementor/addons/elementor-testimonial-two-widget.php:141
+msgid "Jhon Abraham"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:335
+msgid "join Now"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:209
+msgid "k+"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:292
+msgid "Laoreet donec ultrices tincidunt arcu. Ultrices auctor augue lectus."
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:107
+msgid "leading private aviation"
+msgstr ""
+
+#: wp-widgets/theme-contact-info-widget.php:47
+msgid "Leave it blank if you don't want to show this info"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:133
+#: elementor/addons/elementor-counterup-one-widget.php:117
+#: elementor/addons/elementor-empty-div-widget.php:182
+#: elementor/addons/elementor-heading-title-widget.php:175
+#: elementor/addons/elementor-icon-box-one-widget.php:162
+#: elementor/addons/elementor-icon-box-one-widget.php:485
+#: elementor/addons/elementor-performance-single-item-widget.php:163
+msgid "Left"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:132
+#: elementor/addons/elementor-blog-slider-two-widget.php:180
+#: elementor/addons/elementor-course-single-item-widget.php:183
+msgid "Left Align"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:123
+#: elementor/addons/elementor-header-slider-one-widget.php:255
+#: elementor/addons/elementor-header-slider-two-widget.php:225
+#: elementor/addons/elementor-header-slider-two-widget.php:266
+#: elementor/addons/elementor-header-slider-two-widget.php:321
+#: elementor/addons/elementor-icon-box-one-widget.php:102
+#: elementor/addons/elementor-video-hover-widget.php:127
+msgid "Link"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:217
+#: elementor/addons/elementor-single-skill-item-widget.php:117
+msgid "List Menu Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:286
+#: elementor/addons/elementor-single-skill-item-widget.php:190
+msgid "List Menu Typography Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:138
+#: elementor/addons/elementor-blog-slider-one-widget.php:189
+#: elementor/addons/elementor-blog-slider-two-widget.php:138
+#: elementor/addons/elementor-course-single-item-widget.php:158
+#: elementor/addons/elementor-service-single-item-widget.php:132
+msgid "Long"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:215
+#: elementor/addons/elementor-blog-slider-two-widget.php:209
+#: elementor/addons/elementor-brand-slider-widget.php:161
+#: elementor/addons/elementor-course-single-item-widget.php:213
+#: elementor/addons/elementor-deals-single-slider-widget.php:178
+#: elementor/addons/elementor-gallery-slider-one-widget.php:158
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:203
+#: elementor/addons/elementor-packages-single-slider-widget.php:179
+#: elementor/addons/elementor-performance-single-item-widget.php:233
+#: elementor/addons/elementor-team-single-item-widget.php:159
+#: elementor/addons/elementor-testimonial-one-widget.php:189
+#: elementor/addons/elementor-testimonial-three-widget.php:218
+#: elementor/addons/elementor-testimonial-two-widget.php:204
+msgid "Loop"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:144
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum."
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:30
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore."
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:102
+#: elementor/addons/elementor-performance-single-item-widget.php:132
+msgid "Luxury & Comfort"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:184
+#: elementor/addons/elementor-header-slider-two-widget.php:145
+msgid "Make Your Trip"
+msgstr ""
+
+#: elementor/addons/elementor-brand-slider-widget.php:138
+#: elementor/addons/elementor-gallery-slider-one-widget.php:138
+#: elementor/addons/elementor-performance-single-item-widget.php:213
+#: elementor/addons/elementor-team-single-item-widget.php:139
+#: elementor/addons/elementor-testimonial-one-widget.php:169
+msgid "Margin"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:112
+msgid "Menu Background Image"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:179
+msgid "Menu Details Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:254
+msgid "Menu Title Color"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:310
+msgid "Menu Title Typography"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-two-widget.php:338
+msgid "Meta Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:342
+msgid "Meta Border Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:170
+#: elementor/addons/elementor-blog-slider-two-widget.php:345
+#: elementor/addons/elementor-deals-single-slider-widget.php:335
+msgid "Meta Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:220
+#: elementor/addons/elementor-blog-slider-two-widget.php:453
+msgid "Meta Typography"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:129
+msgid "Most Comment"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:127
+#: elementor/addons/elementor-blog-slider-one-widget.php:178
+#: elementor/addons/elementor-blog-slider-two-widget.php:127
+#: elementor/addons/elementor-course-single-item-widget.php:147
+#: elementor/addons/elementor-deals-single-slider-widget.php:148
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:173
+#: elementor/addons/elementor-packages-single-slider-widget.php:149
+#: elementor/addons/elementor-service-single-item-widget.php:121
+#: elementor/addons/elementor-team-single-item-widget.php:122
+msgid "Most Comments"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:103
+#: elementor/addons/elementor-testimonial-three-widget.php:138
+#: elementor/addons/elementor-testimonial-two-widget.php:138
+msgid "Name"
+msgstr ""
+
+#: elementor/addons/elementor-team-single-item-widget.php:266
+#: elementor/addons/elementor-testimonial-one-widget.php:407
+#: elementor/addons/elementor-testimonial-one-widget.php:448
+#: elementor/addons/elementor-testimonial-three-widget.php:438
+#: elementor/addons/elementor-testimonial-two-widget.php:424
+msgid "Name Color"
+msgstr ""
+
+#: elementor/addons/elementor-team-single-item-widget.php:343
+#: elementor/addons/elementor-testimonial-one-widget.php:480
+#: elementor/addons/elementor-testimonial-three-widget.php:474
+#: elementor/addons/elementor-testimonial-two-widget.php:453
+msgid "Name Typography"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:258
+#: elementor/addons/elementor-blog-slider-two-widget.php:252
+#: elementor/addons/elementor-course-single-item-widget.php:256
+#: elementor/addons/elementor-deals-single-slider-widget.php:233
+#: elementor/addons/elementor-gallery-slider-one-widget.php:174
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:247
+#: elementor/addons/elementor-packages-single-slider-widget.php:223
+#: elementor/addons/elementor-performance-single-item-widget.php:249
+#: elementor/addons/elementor-team-single-item-widget.php:175
+#: elementor/addons/elementor-testimonial-one-widget.php:205
+#: elementor/addons/elementor-testimonial-three-widget.php:234
+#: elementor/addons/elementor-testimonial-two-widget.php:220
+msgid "Nav"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:278
+#: elementor/addons/elementor-blog-slider-two-widget.php:272
+#: elementor/addons/elementor-course-single-item-widget.php:288
+#: elementor/addons/elementor-deals-single-slider-widget.php:253
+#: elementor/addons/elementor-gallery-slider-one-widget.php:192
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:276
+#: elementor/addons/elementor-packages-single-slider-widget.php:252
+#: elementor/addons/elementor-performance-single-item-widget.php:267
+#: elementor/addons/elementor-team-single-item-widget.php:193
+#: elementor/addons/elementor-testimonial-one-widget.php:232
+#: elementor/addons/elementor-testimonial-three-widget.php:252
+#: elementor/addons/elementor-testimonial-two-widget.php:238
+msgid "Nav Left Icon"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:264
+msgid "Nav Position"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:266
+#: elementor/addons/elementor-blog-slider-two-widget.php:260
+#: elementor/addons/elementor-course-single-item-widget.php:276
+#: elementor/addons/elementor-deals-single-slider-widget.php:241
+#: elementor/addons/elementor-gallery-slider-one-widget.php:205
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:264
+#: elementor/addons/elementor-packages-single-slider-widget.php:240
+#: elementor/addons/elementor-performance-single-item-widget.php:280
+#: elementor/addons/elementor-team-single-item-widget.php:206
+#: elementor/addons/elementor-testimonial-one-widget.php:245
+#: elementor/addons/elementor-testimonial-three-widget.php:265
+#: elementor/addons/elementor-testimonial-two-widget.php:251
+msgid "Nav Right Icon"
+msgstr ""
+
+#: wp-widgets/theme-request-form-widget.php:30
+#: wp-widgets/theme-social-share-widget.php:25
+msgid "Never Miss News"
+msgstr ""
+
+#: inc/theme-core-helper-functions.php:514
+msgid "No contact form found"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:164
+msgid "No Of Posts"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:214
+#: elementor/addons/elementor-blog-slider-list-widget.php:159
+#: elementor/addons/elementor-blog-slider-one-widget.php:326
+#: elementor/addons/elementor-blog-slider-one-widget.php:415
+#: elementor/addons/elementor-blog-slider-two-widget.php:320
+#: elementor/addons/elementor-blog-slider-two-widget.php:388
+#: elementor/addons/elementor-call-to-action-item-widget.php:147
+#: elementor/addons/elementor-choose-single-item-one-widget.php:166
+#: elementor/addons/elementor-course-single-item-widget.php:268
+#: elementor/addons/elementor-course-single-item-widget.php:336
+#: elementor/addons/elementor-course-single-item-widget.php:509
+#: elementor/addons/elementor-deals-single-slider-widget.php:302
+#: elementor/addons/elementor-deals-single-slider-widget.php:407
+#: elementor/addons/elementor-icon-box-one-widget.php:194
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:325
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:437
+#: elementor/addons/elementor-packages-single-slider-widget.php:302
+#: elementor/addons/elementor-packages-single-slider-widget.php:426
+#: elementor/addons/elementor-service-list-item-widget.php:228
+#: elementor/addons/elementor-service-single-item-widget.php:158
+#: elementor/addons/elementor-single-skill-item-widget.php:128
+#: elementor/addons/elementor-team-single-item-widget.php:290
+#: elementor/addons/elementor-video-hover-widget.php:381
+msgid "Normal"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:300
+msgid "Normal Style"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:64 admin/theme-custom-post-type.php:100
+#: admin/theme-custom-post-type.php:135 admin/theme-custom-post-type.php:170
+msgid "Not Found"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:65 admin/theme-custom-post-type.php:101
+#: admin/theme-custom-post-type.php:136 admin/theme-custom-post-type.php:171
+msgid "Not found in Trash"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:158
+#: elementor/addons/elementor-choose-single-item-one-widget.php:93
+#: elementor/addons/elementor-counterup-one-widget.php:98
+#: elementor/addons/elementor-counterup-two-widget.php:193
+msgid "Number"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:170
+#: elementor/addons/elementor-choose-single-item-one-widget.php:207
+#: elementor/addons/elementor-counterup-one-widget.php:143
+#: elementor/addons/elementor-counterup-two-widget.php:319
+#: elementor/addons/elementor-icon-box-one-widget.php:275
+#: elementor/addons/elementor-single-skill-item-widget.php:139
+#: elementor/addons/elementor-single-skill-item-widget.php:168
+msgid "Number Color"
+msgstr ""
+
+#: elementor/addons/elementor-choose-single-item-one-widget.php:242
+#: elementor/addons/elementor-counterup-one-widget.php:171
+#: elementor/addons/elementor-counterup-two-widget.php:386
+#: elementor/addons/elementor-icon-box-one-widget.php:538
+#: elementor/addons/elementor-single-skill-item-widget.php:206
+msgid "Number Typography"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:132
+#: wp-widgets/theme-post-tags-menu.php:123
+#: wp-widgets/theme-recent-post-widget.php:171
+#: elementor/addons/elementor-blog-slider-list-widget.php:110
+#: elementor/addons/elementor-blog-slider-one-widget.php:161
+#: elementor/addons/elementor-blog-slider-two-widget.php:110
+#: elementor/addons/elementor-course-single-item-widget.php:130
+#: elementor/addons/elementor-deals-single-slider-widget.php:131
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:156
+#: elementor/addons/elementor-packages-single-slider-widget.php:132
+#: elementor/addons/elementor-service-single-item-widget.php:104
+#: elementor/addons/elementor-team-single-item-widget.php:105
+msgid "Order"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:145
+#: wp-widgets/theme-post-tags-menu.php:136
+#: wp-widgets/theme-recent-post-widget.php:189
+#: elementor/addons/elementor-blog-slider-list-widget.php:120
+#: elementor/addons/elementor-blog-slider-one-widget.php:171
+#: elementor/addons/elementor-blog-slider-two-widget.php:120
+#: elementor/addons/elementor-course-single-item-widget.php:140
+#: elementor/addons/elementor-deals-single-slider-widget.php:141
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:166
+#: elementor/addons/elementor-packages-single-slider-widget.php:142
+#: elementor/addons/elementor-service-single-item-widget.php:114
+#: elementor/addons/elementor-team-single-item-widget.php:115
+msgid "OrderBy"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:308
+#: elementor/addons/elementor-header-slider-two-widget.php:400
+msgid "Overlay Color"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:87 admin/theme-custom-post-type.php:88
+#: admin/theme-custom-post-type.php:92
+msgid "Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:233 admin/theme-custom-post-type.php:234
+#: admin/theme-custom-post-type.php:235
+#: wp-widgets/theme-post-category-widget.php:87
+msgid "Packages Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:102
+msgid "Packages Image"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:113
+msgid "Packages Post Type"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-widget.php:39
+msgid "Packages Single Slider"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:39
+msgid "Packages Single Slider: 02"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:117
+#: elementor/addons/elementor-packages-single-slider-widget.php:93
+msgid "Packages Style System"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:78
+msgid "Packages Tags"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:93
+msgid "Packagess"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:153
+#: elementor/addons/elementor-header-slider-one-widget.php:298
+#: elementor/addons/elementor-header-slider-two-widget.php:390
+#: elementor/addons/elementor-icon-box-one-widget.php:200
+#: elementor/addons/elementor-testimonial-three-widget.php:344
+msgid "Padding"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:239
+msgid "Padding Settings"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:120
+#: elementor/addons/elementor-blog-slider-two-widget.php:168
+#: elementor/addons/elementor-course-single-item-widget.php:171
+msgid "Pagination"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:129
+#: elementor/addons/elementor-blog-slider-two-widget.php:177
+#: elementor/addons/elementor-course-single-item-widget.php:180
+msgid "Pagination Alignment"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:497
+#: elementor/addons/elementor-deals-single-slider-widget.php:395
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:425
+#: elementor/addons/elementor-packages-single-slider-widget.php:414
+msgid "Pagination Settings"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:181
+#: elementor/addons/elementor-accordion-widget.php:227
+#: elementor/addons/elementor-benefit-single-item-widget.php:181
+#: elementor/addons/elementor-blog-slider-one-widget.php:344
+#: elementor/addons/elementor-call-to-action-item-widget.php:183
+#: elementor/addons/elementor-course-single-item-widget.php:375
+#: elementor/addons/elementor-icon-box-one-widget.php:327
+#: elementor/addons/elementor-our-history-item-widget.php:170
+#: elementor/addons/elementor-performance-single-item-widget.php:353
+#: elementor/addons/elementor-service-list-item-widget.php:191
+#: elementor/addons/elementor-service-single-item-widget.php:183
+msgid "Paragraph Color"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:222
+#: elementor/addons/elementor-service-single-item-widget.php:208
+msgid "Paragraph Hover Color"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:277
+#: elementor/addons/elementor-benefit-single-item-widget.php:212
+#: elementor/addons/elementor-call-to-action-item-widget.php:336
+#: elementor/addons/elementor-course-single-item-widget.php:594
+#: elementor/addons/elementor-header-slider-two-widget.php:635
+#: elementor/addons/elementor-our-history-item-widget.php:230
+#: elementor/addons/elementor-performance-single-item-widget.php:390
+#: elementor/addons/elementor-service-list-item-widget.php:334
+#: elementor/addons/elementor-service-single-item-widget.php:237
+msgid "Paragraph Typography"
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:39
+msgid "Performance Single Item : 01"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:610
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:656
+#: elementor/addons/elementor-packages-single-slider-widget.php:600
+#: elementor/addons/elementor-packages-single-slider-widget.php:648
+msgid "Person :"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:139
+msgid "Plane Image"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin to contain short codes and custom post types of the Themeim theme."
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:480
+msgid "Position"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:134
+msgid "Post Type"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:125
+msgctxt "Post Type General Name"
+msgid "Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:90
+msgctxt "Post Type General Name"
+msgid "Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:54
+msgctxt "Post Type General Name"
+msgid "Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:160
+msgctxt "Post Type General Name"
+msgid "Team"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:126
+msgctxt "Post Type Singular Name"
+msgid "Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:91
+msgctxt "Post Type Singular Name"
+msgid "Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:55
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:161
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:126
+msgid "Press Enter For New Item"
+msgstr ""
+
+#: elementor/addons/elementor-deals-single-slider-widget.php:579
+#: elementor/addons/elementor-deals-single-slider-widget.php:622
+msgid "Price:"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:127
+#: elementor/addons/elementor-service-list-item-widget.php:136
+msgid "Private Jet Charter"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:94
+msgid "Professional Pilots"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:185
+msgid "Projects Done"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:239
+msgid "Radius"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:100
+#: wp-widgets/theme-post-tags-menu.php:91
+#: wp-widgets/theme-recent-post-widget.php:128
+#: elementor/addons/elementor-blog-slider-list-widget.php:126
+#: elementor/addons/elementor-blog-slider-one-widget.php:177
+#: elementor/addons/elementor-blog-slider-two-widget.php:126
+#: elementor/addons/elementor-course-single-item-widget.php:146
+#: elementor/addons/elementor-deals-single-slider-widget.php:147
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:172
+#: elementor/addons/elementor-packages-single-slider-widget.php:148
+#: elementor/addons/elementor-service-single-item-widget.php:120
+#: elementor/addons/elementor-team-single-item-widget.php:121
+msgid "Random"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:116
+#: elementor/addons/elementor-testimonial-three-widget.php:165
+#: elementor/addons/elementor-testimonial-two-widget.php:151
+msgid "Ratings"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:362
+#: elementor/addons/elementor-testimonial-three-widget.php:386
+#: elementor/addons/elementor-testimonial-two-widget.php:372
+msgid "Ratings Between Gap"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:434
+#: elementor/addons/elementor-testimonial-one-widget.php:455
+#: elementor/addons/elementor-testimonial-three-widget.php:460
+#: elementor/addons/elementor-testimonial-two-widget.php:439
+msgid "Ratings Color"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:110
+#: elementor/addons/elementor-testimonial-three-widget.php:159
+#: elementor/addons/elementor-testimonial-two-widget.php:145
+msgid "Ratings Show/Hide"
+msgstr ""
+
+#: inc/theme-core-excerpt.php:54
+#: elementor/addons/elementor-blog-slider-list-widget.php:91
+#: elementor/addons/elementor-blog-slider-list-widget.php:94
+#: elementor/addons/elementor-blog-slider-one-widget.php:142
+#: elementor/addons/elementor-blog-slider-one-widget.php:145
+#: elementor/addons/elementor-blog-slider-two-widget.php:91
+#: elementor/addons/elementor-blog-slider-two-widget.php:94
+#: elementor/addons/elementor-course-single-item-widget.php:166
+#: elementor/addons/elementor-deals-single-slider-widget.php:156
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:181
+#: elementor/addons/elementor-packages-single-slider-widget.php:157
+#: elementor/addons/elementor-service-single-item-widget.php:140
+msgid "Read More"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:164
+#: elementor/addons/elementor-deals-single-slider-widget.php:154
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:179
+#: elementor/addons/elementor-packages-single-slider-widget.php:155
+#: elementor/addons/elementor-service-single-item-widget.php:138
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:600
+msgid "Read More Typography"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:104
+msgid "Recent Posts"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:137
+#: elementor/addons/elementor-blog-slider-one-widget.php:188
+#: elementor/addons/elementor-blog-slider-two-widget.php:137
+#: elementor/addons/elementor-course-single-item-widget.php:157
+#: elementor/addons/elementor-service-single-item-widget.php:131
+msgid "Regular"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:138
+msgid "Remove Deals Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:103
+msgid "Remove Packages Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:67
+msgid "Remove Service Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:173
+msgid "Remove Team Image"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:446
+msgid "Request Button Text Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:645
+msgid "Request Button Typography"
+msgstr ""
+
+#: elementor/addons/elementor-request-form-widget.php:39
+msgid "Request Form"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:212
+#: elementor/addons/elementor-header-slider-two-widget.php:173
+msgid "Request Quote"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:141
+#: elementor/addons/elementor-counterup-one-widget.php:125
+#: elementor/addons/elementor-empty-div-widget.php:190
+#: elementor/addons/elementor-heading-title-widget.php:183
+#: elementor/addons/elementor-icon-box-one-widget.php:170
+#: elementor/addons/elementor-icon-box-one-widget.php:486
+#: elementor/addons/elementor-performance-single-item-widget.php:171
+msgid "Right"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:134
+#: elementor/addons/elementor-blog-slider-two-widget.php:182
+#: elementor/addons/elementor-course-single-item-widget.php:185
+msgid "Right Align"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:134
+msgid "Search Deals"
+msgstr ""
+
+#: wp-widgets/theme-post-search-widget.php:43
+msgid "Search here"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:99
+msgid "Search Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:63
+msgid "Search Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:169
+msgid "Search Team"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:86
+msgid "Section Contents"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:107
+#: elementor/addons/elementor-blog-slider-one-widget.php:158
+#: elementor/addons/elementor-blog-slider-two-widget.php:107
+#: elementor/addons/elementor-course-single-item-widget.php:127
+#: elementor/addons/elementor-deals-single-slider-widget.php:128
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:153
+#: elementor/addons/elementor-packages-single-slider-widget.php:129
+#: elementor/addons/elementor-service-single-item-widget.php:101
+#: elementor/addons/elementor-team-single-item-widget.php:102
+msgid "select category as you want, leave it blank for all category"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:476
+#: elementor/addons/elementor-blog-slider-two-widget.php:449
+msgid "select category typography"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:141
+#: elementor/addons/elementor-blog-slider-one-widget.php:192
+#: elementor/addons/elementor-blog-slider-two-widget.php:141
+#: elementor/addons/elementor-course-single-item-widget.php:161
+#: elementor/addons/elementor-service-single-item-widget.php:135
+msgid "select excerpt length"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:113
+#: elementor/addons/elementor-blog-slider-two-widget.php:161
+#: elementor/addons/elementor-course-single-item-widget.php:112
+#: elementor/addons/elementor-deals-single-slider-widget.php:113
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:137
+#: elementor/addons/elementor-packages-single-slider-widget.php:113
+#: elementor/addons/elementor-performance-single-item-widget.php:121
+msgid "select grid column"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:110
+#: elementor/addons/elementor-counterup-two-widget.php:153
+#: elementor/addons/elementor-header-slider-one-widget.php:106
+#: elementor/addons/elementor-header-slider-one-widget.php:118
+#: elementor/addons/elementor-header-slider-one-widget.php:130
+#: elementor/addons/elementor-header-slider-one-widget.php:244
+#: elementor/addons/elementor-header-slider-two-widget.php:239
+#: elementor/addons/elementor-header-slider-two-widget.php:279
+#: elementor/addons/elementor-heading-title-widget.php:112
+#: elementor/addons/elementor-heading-title-widget.php:125
+#: elementor/addons/elementor-icon-box-one-widget.php:128
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:97
+#: elementor/addons/elementor-performance-single-item-widget.php:140
+#: elementor/addons/elementor-request-form-widget.php:107
+#: elementor/addons/elementor-video-hover-widget.php:141
+msgid "select Icon."
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:109
+msgid "select Image."
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:222
+msgid "select Meta typography"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-two-widget.php:455
+msgid "select meta typography"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:117
+#: elementor/addons/elementor-blog-slider-list-widget.php:130
+#: elementor/addons/elementor-blog-slider-one-widget.php:168
+#: elementor/addons/elementor-blog-slider-one-widget.php:181
+#: elementor/addons/elementor-blog-slider-two-widget.php:117
+#: elementor/addons/elementor-blog-slider-two-widget.php:130
+#: elementor/addons/elementor-course-single-item-widget.php:137
+#: elementor/addons/elementor-course-single-item-widget.php:150
+#: elementor/addons/elementor-deals-single-slider-widget.php:138
+#: elementor/addons/elementor-deals-single-slider-widget.php:151
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:163
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:176
+#: elementor/addons/elementor-packages-single-slider-widget.php:139
+#: elementor/addons/elementor-packages-single-slider-widget.php:152
+#: elementor/addons/elementor-service-single-item-widget.php:111
+#: elementor/addons/elementor-service-single-item-widget.php:124
+#: elementor/addons/elementor-team-single-item-widget.php:112
+#: elementor/addons/elementor-team-single-item-widget.php:125
+msgid "select order"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:184
+#: elementor/addons/elementor-call-to-action-item-widget.php:223
+#: elementor/addons/elementor-course-single-item-widget.php:376
+#: elementor/addons/elementor-service-single-item-widget.php:184
+#: elementor/addons/elementor-service-single-item-widget.php:209
+msgid "select Paragraph Color"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:279
+#: elementor/addons/elementor-call-to-action-item-widget.php:338
+#: elementor/addons/elementor-course-single-item-widget.php:596
+#: elementor/addons/elementor-course-single-item-widget.php:602
+#: elementor/addons/elementor-service-single-item-widget.php:239
+msgid "select Paragraph typography"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:137
+msgid "select theme."
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:273
+#: elementor/addons/elementor-blog-slider-list-widget.php:215
+#: elementor/addons/elementor-blog-slider-one-widget.php:469
+#: elementor/addons/elementor-blog-slider-two-widget.php:442
+#: elementor/addons/elementor-call-to-action-item-widget.php:332
+#: elementor/addons/elementor-course-single-item-widget.php:590
+#: elementor/addons/elementor-our-history-item-widget.php:220
+#: elementor/addons/elementor-our-history-item-widget.php:226
+#: elementor/addons/elementor-our-history-item-widget.php:232
+#: elementor/addons/elementor-service-single-item-widget.php:233
+msgid "select title typography"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:214
+msgid "select year typography"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:51 admin/theme-custom-post-type.php:52
+#: admin/theme-custom-post-type.php:56
+msgid "Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:210 admin/theme-custom-post-type.php:211
+#: admin/theme-custom-post-type.php:212
+#: wp-widgets/theme-post-category-widget.php:90
+msgid "Service Category"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:120
+msgid "Service Details Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:66
+msgid "Service Image"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:128
+msgid "Service Menu Title"
+msgstr ""
+
+#: wp-widgets/theme-recent-post-widget.php:115
+msgid "Service Post Type"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:95
+msgid "Service Sub Title"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:168
+msgid "Service Tab Items"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:81
+msgid "Service Tags"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:104
+#: elementor/addons/elementor-service-list-item-widget.php:137
+msgid "Service Title"
+msgstr ""
+
+#: elementor/addons/elementor-service-single-item-widget.php:39
+msgid "Service: Item 01"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:40
+msgid "Service: Tab Item"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:57
+msgid "Services"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:139
+msgid "Set Deals Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:104
+msgid "Set Packages Image"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:305
+#: elementor/addons/elementor-header-slider-two-widget.php:397
+msgid "set padding for header area "
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:125
+#: elementor/addons/elementor-testimonial-three-widget.php:174
+#: elementor/addons/elementor-testimonial-two-widget.php:160
+msgid "set ratings"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:68
+msgid "Set Service Image"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:174
+msgid "Set Team Image"
+msgstr ""
+
+#: elementor/addons/elementor-empty-div-widget.php:119
+#: elementor/addons/elementor-header-slider-two-widget.php:551
+#: elementor/addons/elementor-video-hover-widget.php:238
+msgid "Shape Border"
+msgstr ""
+
+#: elementor/addons/elementor-empty-div-widget.php:126
+#: elementor/addons/elementor-header-slider-two-widget.php:559
+#: elementor/addons/elementor-video-hover-widget.php:252
+msgid "Shape Height"
+msgstr ""
+
+#: elementor/addons/elementor-empty-div-widget.php:107
+#: elementor/addons/elementor-header-slider-two-widget.php:537
+#: elementor/addons/elementor-video-hover-widget.php:214
+msgid "Shape Radius"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:204
+msgid "Shape Top Space"
+msgstr ""
+
+#: elementor/addons/elementor-empty-div-widget.php:152
+#: elementor/addons/elementor-header-slider-two-widget.php:586
+#: elementor/addons/elementor-video-hover-widget.php:304
+msgid "Shape Width"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:136
+#: elementor/addons/elementor-blog-slider-one-widget.php:187
+#: elementor/addons/elementor-blog-slider-two-widget.php:136
+#: elementor/addons/elementor-course-single-item-widget.php:156
+#: elementor/addons/elementor-service-single-item-widget.php:130
+msgid "Short"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:177
+#: elementor/addons/elementor-header-slider-one-widget.php:205
+#: elementor/addons/elementor-header-slider-two-widget.php:138
+#: elementor/addons/elementor-header-slider-two-widget.php:166
+msgid "show/hide button"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:155
+msgid "show/hide description"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:112
+#: elementor/addons/elementor-testimonial-three-widget.php:161
+#: elementor/addons/elementor-testimonial-two-widget.php:147
+msgid "show/hide ratings"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:175
+msgid "show/hide Subtitle"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:104
+#: elementor/addons/elementor-counterup-two-widget.php:205
+msgid "sign"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:335
+msgid "Sign Color"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-one-widget.php:179
+msgid "Sing Typography"
+msgstr ""
+
+#: elementor/addons/elementor-single-skill-item-widget.php:36
+msgid "Skill Item: 01"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:369
+msgid "Slider Feature Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:376
+msgid "Slider Feature Extra Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:232
+#: elementor/addons/elementor-blog-slider-two-widget.php:226
+#: elementor/addons/elementor-course-single-item-widget.php:230
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:221
+#: elementor/addons/elementor-packages-single-slider-widget.php:197
+msgid "Slider Nav Position"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:404
+#: elementor/addons/elementor-blog-slider-two-widget.php:377
+msgid "Slider Nav Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:383
+msgid "Slider Paragraph Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:199
+#: elementor/addons/elementor-blog-slider-two-widget.php:193
+#: elementor/addons/elementor-brand-slider-widget.php:122
+#: elementor/addons/elementor-course-single-item-widget.php:197
+#: elementor/addons/elementor-deals-single-slider-widget.php:162
+#: elementor/addons/elementor-gallery-slider-one-widget.php:122
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:187
+#: elementor/addons/elementor-packages-single-slider-widget.php:163
+#: elementor/addons/elementor-performance-single-item-widget.php:197
+#: elementor/addons/elementor-team-single-item-widget.php:87
+#: elementor/addons/elementor-testimonial-one-widget.php:153
+#: elementor/addons/elementor-testimonial-three-widget.php:202
+#: elementor/addons/elementor-testimonial-two-widget.php:188
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:284
+msgid "Slider Sub Title Background Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:291
+msgid "Slider Sub Title Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:348
+msgid "Slider Subtitle Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:355
+msgid "Slider Subtitle Extra Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:98
+#: elementor/addons/elementor-course-single-item-widget.php:97
+#: elementor/addons/elementor-deals-single-slider-widget.php:98
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:122
+#: elementor/addons/elementor-packages-single-slider-widget.php:98
+#: elementor/addons/elementor-performance-single-item-widget.php:104
+msgid "Slider System"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:277
+#: elementor/addons/elementor-header-slider-two-widget.php:362
+msgid "Slider Title Color"
+msgstr ""
+
+#: elementor/addons/elementor-gallery-slider-one-widget.php:129
+#: elementor/addons/elementor-performance-single-item-widget.php:204
+#: elementor/addons/elementor-team-single-item-widget.php:130
+#: elementor/addons/elementor-testimonial-one-widget.php:160
+#: elementor/addons/elementor-testimonial-three-widget.php:209
+#: elementor/addons/elementor-testimonial-two-widget.php:195
+msgid "slidesToShow"
+msgstr ""
+
+#: wp-widgets/theme-about-me-widget.php:30
+#: wp-widgets/theme-about-us-widget.php:36
+#: wp-widgets/theme-social-share-widget.php:30
+msgid "Social Icon"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:262
+msgid "Social Icon List"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:233
+msgid "Social Icon Settings"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:122
+msgid "Specialized bilingual guide"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-widget.php:596
+#: elementor/addons/elementor-packages-single-slider-widget.php:644
+msgid "Starting Form :"
+msgstr ""
+
+#: elementor/addons/elementor-benefit-single-item-widget.php:155
+#: elementor/addons/elementor-blog-slider-list-widget.php:148
+#: elementor/addons/elementor-blog-slider-one-widget.php:315
+#: elementor/addons/elementor-blog-slider-two-widget.php:309
+#: elementor/addons/elementor-call-to-action-item-widget.php:136
+#: elementor/addons/elementor-counterup-one-widget.php:138
+#: elementor/addons/elementor-counterup-two-widget.php:225
+#: elementor/addons/elementor-course-single-item-widget.php:325
+#: elementor/addons/elementor-header-slider-one-widget.php:272
+#: elementor/addons/elementor-header-slider-two-widget.php:343
+#: elementor/addons/elementor-heading-title-widget.php:197
+#: elementor/addons/elementor-performance-single-item-widget.php:327
+#: elementor/addons/elementor-request-form-widget.php:128
+#: elementor/addons/elementor-service-single-item-widget.php:147
+#: elementor/addons/elementor-team-single-item-widget.php:252
+#: elementor/addons/elementor-testimonial-one-widget.php:290
+#: elementor/addons/elementor-testimonial-three-widget.php:332
+#: elementor/addons/elementor-testimonial-two-widget.php:318
+msgid "Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:150
+#: elementor/addons/elementor-header-slider-two-widget.php:103
+#: elementor/addons/elementor-heading-title-widget.php:136
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:246
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:253
+msgid "Sub Title Extra Color"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:426
+#: elementor/addons/elementor-header-slider-two-widget.php:625
+#: elementor/addons/elementor-service-list-item-widget.php:294
+msgid "Sub Title Typography"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:232
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:98
+msgid "Subtitle Plane Animation"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:171
+msgid "Subtitle Show/Hide"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:156
+msgid "Tab Settings"
+msgstr ""
+
+#: wp-widgets/theme-post-tags-menu.php:71
+msgid "Tags"
+msgstr ""
+
+#: wp-widgets/theme-post-category-widget.php:105
+#: wp-widgets/theme-post-tags-menu.php:96
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:157 admin/theme-custom-post-type.php:158
+msgid "team"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:279 admin/theme-custom-post-type.php:280
+#: admin/theme-custom-post-type.php:281
+msgid "Team Category"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:172
+msgid "Team Image"
+msgstr ""
+
+#: elementor/addons/elementor-team-single-item-widget.php:40
+msgid "Team Slider: 02"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:162 admin/theme-custom-post-type.php:163
+msgid "Teams"
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:180
+#: elementor/addons/elementor-testimonial-one-widget.php:136
+#: elementor/addons/elementor-testimonial-three-widget.php:185
+#: elementor/addons/elementor-testimonial-two-widget.php:171
+msgid "Testimonial Item"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:40
+msgid "Testimonial: 01"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-two-widget.php:40
+msgid "Testimonial: 02"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-three-widget.php:40
+msgid "Testimonial: 03"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:139
+msgid "Text Icon"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:530
+msgid "Text Icon Typography"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:133
+#: elementor/addons/elementor-testimonial-two-widget.php:168
+msgid ""
+"The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit”, looks like Latin because in its youth, "
+"centuries ago, it was Latin."
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:123
+msgid "Theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themeim"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:152
+msgid ""
+"There is a very fast AVANCE L5 system for internet access and it did not "
+"disappoint."
+msgstr ""
+
+#: admin/theme-post-column-customize.php:67
+#: admin/theme-post-column-customize.php:129
+#: admin/theme-post-column-customize.php:191
+#: admin/theme-post-column-customize.php:253
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/theme-post-column-customize.php:66
+#: admin/theme-post-column-customize.php:128
+#: admin/theme-post-column-customize.php:190
+#: admin/theme-post-column-customize.php:252
+#: wp-widgets/theme-post-category-widget.php:98
+#: wp-widgets/theme-post-tags-menu.php:89
+#: wp-widgets/theme-recent-post-widget.php:126
+#: elementor/addons/elementor-accordion-widget.php:105
+#: elementor/addons/elementor-benefit-single-item-widget.php:99
+#: elementor/addons/elementor-blog-slider-list-widget.php:124
+#: elementor/addons/elementor-blog-slider-one-widget.php:175
+#: elementor/addons/elementor-blog-slider-two-widget.php:124
+#: elementor/addons/elementor-call-to-action-item-widget.php:102
+#: elementor/addons/elementor-choose-single-item-one-widget.php:103
+#: elementor/addons/elementor-counterup-one-widget.php:92
+#: elementor/addons/elementor-counterup-two-widget.php:181
+#: elementor/addons/elementor-course-single-item-widget.php:144
+#: elementor/addons/elementor-deals-single-slider-widget.php:145
+#: elementor/addons/elementor-header-slider-one-widget.php:158
+#: elementor/addons/elementor-header-slider-two-widget.php:111
+#: elementor/addons/elementor-header-slider-two-widget.php:257
+#: elementor/addons/elementor-header-slider-two-widget.php:301
+#: elementor/addons/elementor-heading-title-widget.php:145
+#: elementor/addons/elementor-icon-box-one-widget.php:93
+#: elementor/addons/elementor-our-history-item-widget.php:115
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:170
+#: elementor/addons/elementor-packages-single-slider-widget.php:146
+#: elementor/addons/elementor-performance-single-item-widget.php:129
+#: elementor/addons/elementor-request-form-widget.php:115
+#: elementor/addons/elementor-service-single-item-widget.php:118
+#: elementor/addons/elementor-single-skill-item-widget.php:87
+#: elementor/addons/elementor-team-single-item-widget.php:119
+msgid "Title"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:226
+msgid "Title Bottom Space"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:174
+#: elementor/addons/elementor-accordion-widget.php:220
+#: elementor/addons/elementor-benefit-single-item-widget.php:174
+#: elementor/addons/elementor-blog-slider-list-widget.php:163
+#: elementor/addons/elementor-blog-slider-list-widget.php:193
+#: elementor/addons/elementor-blog-slider-one-widget.php:330
+#: elementor/addons/elementor-blog-slider-one-widget.php:374
+#: elementor/addons/elementor-blog-slider-two-widget.php:324
+#: elementor/addons/elementor-blog-slider-two-widget.php:361
+#: elementor/addons/elementor-call-to-action-item-widget.php:176
+#: elementor/addons/elementor-choose-single-item-one-widget.php:177
+#: elementor/addons/elementor-choose-single-item-one-widget.php:200
+#: elementor/addons/elementor-counterup-one-widget.php:151
+#: elementor/addons/elementor-counterup-two-widget.php:349
+#: elementor/addons/elementor-course-single-item-widget.php:368
+#: elementor/addons/elementor-course-single-item-widget.php:393
+#: elementor/addons/elementor-deals-single-slider-widget.php:321
+#: elementor/addons/elementor-deals-single-slider-widget.php:365
+#: elementor/addons/elementor-heading-title-widget.php:268
+#: elementor/addons/elementor-icon-box-one-widget.php:268
+#: elementor/addons/elementor-icon-box-one-widget.php:320
+#: elementor/addons/elementor-our-history-item-widget.php:163
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:345
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:395
+#: elementor/addons/elementor-packages-single-slider-widget.php:322
+#: elementor/addons/elementor-packages-single-slider-widget.php:383
+#: elementor/addons/elementor-performance-single-item-widget.php:346
+#: elementor/addons/elementor-service-list-item-widget.php:184
+#: elementor/addons/elementor-service-list-item-widget.php:246
+#: elementor/addons/elementor-service-list-item-widget.php:270
+#: elementor/addons/elementor-service-single-item-widget.php:176
+#: elementor/addons/elementor-single-skill-item-widget.php:132
+#: elementor/addons/elementor-single-skill-item-widget.php:161
+msgid "Title Color"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:275
+msgid "Title Extra Color"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:297
+msgid "Title Extra Typography"
+msgstr ""
+
+#: elementor/addons/elementor-call-to-action-item-widget.php:215
+#: elementor/addons/elementor-service-single-item-widget.php:201
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:248
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: elementor/addons/elementor-video-hover-widget.php:360
+msgid "Title Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:271
+#: elementor/addons/elementor-benefit-single-item-widget.php:207
+#: elementor/addons/elementor-blog-slider-list-widget.php:213
+#: elementor/addons/elementor-blog-slider-one-widget.php:467
+#: elementor/addons/elementor-blog-slider-two-widget.php:440
+#: elementor/addons/elementor-call-to-action-item-widget.php:330
+#: elementor/addons/elementor-choose-single-item-one-widget.php:237
+#: elementor/addons/elementor-counterup-one-widget.php:187
+#: elementor/addons/elementor-counterup-two-widget.php:402
+#: elementor/addons/elementor-course-single-item-widget.php:588
+#: elementor/addons/elementor-deals-single-slider-widget.php:487
+#: elementor/addons/elementor-header-slider-one-widget.php:421
+#: elementor/addons/elementor-header-slider-two-widget.php:620
+#: elementor/addons/elementor-heading-title-widget.php:292
+#: elementor/addons/elementor-icon-box-one-widget.php:522
+#: elementor/addons/elementor-our-history-item-widget.php:224
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:517
+#: elementor/addons/elementor-packages-single-slider-widget.php:506
+#: elementor/addons/elementor-performance-single-item-widget.php:385
+#: elementor/addons/elementor-request-form-widget.php:175
+#: elementor/addons/elementor-service-list-item-widget.php:302
+#: elementor/addons/elementor-service-list-item-widget.php:326
+#: elementor/addons/elementor-service-single-item-widget.php:231
+#: elementor/addons/elementor-single-skill-item-widget.php:198
+msgid "Title Typography"
+msgstr ""
+
+#: wp-widgets/theme-contact-info-widget.php:36
+#: wp-widgets/theme-post-category-widget.php:124
+#: wp-widgets/theme-post-tags-menu.php:115
+#: wp-widgets/theme-recent-post-widget.php:154
+msgid "Title:"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:484
+msgid "Top"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:164
+msgid "Top Packages"
+msgstr ""
+
+#: elementor/addons/elementor-course-single-item-widget.php:269
+msgid "Top Position"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-list-widget.php:97
+#: elementor/addons/elementor-blog-slider-one-widget.php:148
+#: elementor/addons/elementor-blog-slider-two-widget.php:97
+#: elementor/addons/elementor-course-single-item-widget.php:117
+#: elementor/addons/elementor-deals-single-slider-widget.php:118
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:143
+#: elementor/addons/elementor-packages-single-slider-widget.php:119
+#: elementor/addons/elementor-service-single-item-widget.php:91
+#: elementor/addons/elementor-team-single-item-widget.php:92
+msgid "Total Posts"
+msgstr ""
+
+#: elementor/addons/elementor-service-list-item-widget.php:145
+msgid ""
+"Trade crowded airports and wasted time for the ease, comfort, and "
+"convenience of travel by private jet."
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:309
+msgid "Tutor Image"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:266
+#: elementor/addons/elementor-benefit-single-item-widget.php:200
+#: elementor/addons/elementor-blog-slider-list-widget.php:208
+#: elementor/addons/elementor-blog-slider-one-widget.php:462
+#: elementor/addons/elementor-blog-slider-two-widget.php:435
+#: elementor/addons/elementor-call-to-action-item-widget.php:325
+#: elementor/addons/elementor-choose-single-item-one-widget.php:230
+#: elementor/addons/elementor-counterup-one-widget.php:163
+#: elementor/addons/elementor-counterup-two-widget.php:370
+#: elementor/addons/elementor-course-single-item-widget.php:583
+#: elementor/addons/elementor-deals-single-slider-widget.php:480
+#: elementor/addons/elementor-header-slider-one-widget.php:416
+#: elementor/addons/elementor-header-slider-two-widget.php:615
+#: elementor/addons/elementor-heading-title-widget.php:286
+#: elementor/addons/elementor-icon-box-one-widget.php:514
+#: elementor/addons/elementor-our-history-item-widget.php:207
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:510
+#: elementor/addons/elementor-packages-single-slider-widget.php:499
+#: elementor/addons/elementor-performance-single-item-widget.php:378
+#: elementor/addons/elementor-request-form-widget.php:169
+#: elementor/addons/elementor-service-single-item-widget.php:226
+#: elementor/addons/elementor-testimonial-one-widget.php:475
+#: elementor/addons/elementor-testimonial-three-widget.php:469
+#: elementor/addons/elementor-testimonial-two-widget.php:448
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:133
+msgid "Update Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:98
+msgid "Update Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:62
+msgid "Update Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:168
+msgid "Update Team"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-one-widget.php:95
+#: elementor/addons/elementor-header-slider-one-widget.php:142
+#: elementor/addons/elementor-header-slider-two-widget.php:95
+#: elementor/addons/elementor-header-slider-two-widget.php:204
+#: elementor/addons/elementor-header-slider-two-widget.php:215
+#: elementor/addons/elementor-header-slider-two-widget.php:312
+msgid "upload background image"
+msgstr ""
+
+#: wp-widgets/theme-about-us-widget.php:24
+#: wp-widgets/theme-request-form-widget.php:24
+msgid "Upload Your Photo"
+msgstr ""
+
+#: elementor/addons/elementor-icon-box-one-widget.php:96
+msgid "User friendly system added"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-one-widget.php:223
+msgid "Vertical"
+msgstr ""
+
+#: elementor/addons/elementor-video-hover-widget.php:49
+msgid "Video Player"
+msgstr ""
+
+#: elementor/addons/elementor-header-slider-two-widget.php:503
+msgid "Video Player Settings"
+msgstr ""
+
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:87
+msgid "Video Settings"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:129
+msgid "View Deals"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:94
+msgid "View Packages"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:58
+msgid "View Service"
+msgstr ""
+
+#: admin/theme-custom-post-type.php:164
+msgid "View Teams"
+msgstr ""
+
+#: elementor/addons/elementor-testimonial-three-widget.php:182
+#: elementor/addons/elementor-testimonial-three-widget.php:191
+msgid ""
+"We teach martial arts because we love it — not because we want to make money "
+"on you."
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:147
+msgid "What We Do"
+msgstr ""
+
+#: elementor/addons/elementor-counterup-two-widget.php:131
+msgid "White"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:245
+msgid "Width"
+msgstr ""
+
+#: elementor/addons/elementor-performance-single-item-widget.php:185
+#: elementor/addons/elementor-testimonial-one-widget.php:141
+#: elementor/addons/elementor-testimonial-three-widget.php:190
+#: elementor/addons/elementor-testimonial-two-widget.php:176
+msgid "William Evans"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:99
+msgid "With Image"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:102
+msgid "With Plane"
+msgstr ""
+
+#: elementor/addons/elementor-accordion-widget.php:98
+msgid "Without Image"
+msgstr ""
+
+#: elementor/addons/elementor-heading-title-widget.php:103
+msgid "Without Plane"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:179
+msgid "Wrap Styling Settings"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:109
+msgid "Year"
+msgstr ""
+
+#: elementor/addons/elementor-our-history-item-widget.php:156
+msgid "Year Color"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:208
+#: elementor/addons/elementor-blog-slider-two-widget.php:202
+#: elementor/addons/elementor-brand-slider-widget.php:131
+#: elementor/addons/elementor-course-single-item-widget.php:206
+#: elementor/addons/elementor-deals-single-slider-widget.php:171
+#: elementor/addons/elementor-gallery-slider-one-widget.php:131
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:196
+#: elementor/addons/elementor-packages-single-slider-widget.php:172
+#: elementor/addons/elementor-performance-single-item-widget.php:206
+#: elementor/addons/elementor-team-single-item-widget.php:132
+#: elementor/addons/elementor-testimonial-one-widget.php:162
+#: elementor/addons/elementor-testimonial-three-widget.php:211
+#: elementor/addons/elementor-testimonial-two-widget.php:197
+msgid "you can set how many item show in slider"
+msgstr ""
+
+#: elementor/addons/elementor-brand-slider-widget.php:139
+#: elementor/addons/elementor-gallery-slider-one-widget.php:139
+#: elementor/addons/elementor-performance-single-item-widget.php:214
+#: elementor/addons/elementor-team-single-item-widget.php:140
+#: elementor/addons/elementor-testimonial-one-widget.php:170
+msgid "you can set margin for slider"
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:136
+#: elementor/addons/elementor-blog-slider-two-widget.php:184
+#: elementor/addons/elementor-course-single-item-widget.php:187
+msgid "you can set pagination alignment."
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:122
+#: elementor/addons/elementor-blog-slider-two-widget.php:170
+#: elementor/addons/elementor-course-single-item-widget.php:173
+msgid "you can set yes to show pagination."
+msgstr ""
+
+#: elementor/addons/elementor-blog-slider-one-widget.php:217
+#: elementor/addons/elementor-blog-slider-one-widget.php:225
+#: elementor/addons/elementor-blog-slider-one-widget.php:260
+#: elementor/addons/elementor-blog-slider-one-widget.php:268
+#: elementor/addons/elementor-blog-slider-one-widget.php:280
+#: elementor/addons/elementor-blog-slider-two-widget.php:211
+#: elementor/addons/elementor-blog-slider-two-widget.php:219
+#: elementor/addons/elementor-blog-slider-two-widget.php:254
+#: elementor/addons/elementor-blog-slider-two-widget.php:262
+#: elementor/addons/elementor-blog-slider-two-widget.php:274
+#: elementor/addons/elementor-brand-slider-widget.php:163
+#: elementor/addons/elementor-brand-slider-widget.php:171
+#: elementor/addons/elementor-course-single-item-widget.php:215
+#: elementor/addons/elementor-course-single-item-widget.php:223
+#: elementor/addons/elementor-course-single-item-widget.php:258
+#: elementor/addons/elementor-course-single-item-widget.php:278
+#: elementor/addons/elementor-course-single-item-widget.php:290
+#: elementor/addons/elementor-deals-single-slider-widget.php:180
+#: elementor/addons/elementor-deals-single-slider-widget.php:188
+#: elementor/addons/elementor-deals-single-slider-widget.php:235
+#: elementor/addons/elementor-deals-single-slider-widget.php:243
+#: elementor/addons/elementor-deals-single-slider-widget.php:255
+#: elementor/addons/elementor-gallery-slider-one-widget.php:160
+#: elementor/addons/elementor-gallery-slider-one-widget.php:168
+#: elementor/addons/elementor-gallery-slider-one-widget.php:176
+#: elementor/addons/elementor-gallery-slider-one-widget.php:185
+#: elementor/addons/elementor-gallery-slider-one-widget.php:194
+#: elementor/addons/elementor-gallery-slider-one-widget.php:207
+#: elementor/addons/elementor-gallery-slider-one-widget.php:220
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:205
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:214
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:249
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:257
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:266
+#: elementor/addons/elementor-packages-single-slider-two-widget.php:278
+#: elementor/addons/elementor-packages-single-slider-widget.php:181
+#: elementor/addons/elementor-packages-single-slider-widget.php:190
+#: elementor/addons/elementor-packages-single-slider-widget.php:225
+#: elementor/addons/elementor-packages-single-slider-widget.php:233
+#: elementor/addons/elementor-packages-single-slider-widget.php:242
+#: elementor/addons/elementor-packages-single-slider-widget.php:254
+#: elementor/addons/elementor-performance-single-item-widget.php:235
+#: elementor/addons/elementor-performance-single-item-widget.php:243
+#: elementor/addons/elementor-performance-single-item-widget.php:251
+#: elementor/addons/elementor-performance-single-item-widget.php:260
+#: elementor/addons/elementor-performance-single-item-widget.php:269
+#: elementor/addons/elementor-performance-single-item-widget.php:282
+#: elementor/addons/elementor-performance-single-item-widget.php:295
+#: elementor/addons/elementor-team-single-item-widget.php:161
+#: elementor/addons/elementor-team-single-item-widget.php:169
+#: elementor/addons/elementor-team-single-item-widget.php:177
+#: elementor/addons/elementor-team-single-item-widget.php:186
+#: elementor/addons/elementor-team-single-item-widget.php:195
+#: elementor/addons/elementor-team-single-item-widget.php:208
+#: elementor/addons/elementor-team-single-item-widget.php:221
+#: elementor/addons/elementor-testimonial-one-widget.php:191
+#: elementor/addons/elementor-testimonial-one-widget.php:199
+#: elementor/addons/elementor-testimonial-one-widget.php:207
+#: elementor/addons/elementor-testimonial-one-widget.php:216
+#: elementor/addons/elementor-testimonial-one-widget.php:225
+#: elementor/addons/elementor-testimonial-one-widget.php:234
+#: elementor/addons/elementor-testimonial-one-widget.php:247
+#: elementor/addons/elementor-testimonial-one-widget.php:260
+#: elementor/addons/elementor-testimonial-three-widget.php:220
+#: elementor/addons/elementor-testimonial-three-widget.php:228
+#: elementor/addons/elementor-testimonial-three-widget.php:236
+#: elementor/addons/elementor-testimonial-three-widget.php:245
+#: elementor/addons/elementor-testimonial-three-widget.php:254
+#: elementor/addons/elementor-testimonial-three-widget.php:267
+#: elementor/addons/elementor-testimonial-three-widget.php:280
+#: elementor/addons/elementor-testimonial-two-widget.php:206
+#: elementor/addons/elementor-testimonial-two-widget.php:214
+#: elementor/addons/elementor-testimonial-two-widget.php:222
+#: elementor/addons/elementor-testimonial-two-widget.php:231
+#: elementor/addons/elementor-testimonial-two-widget.php:240
+#: elementor/addons/elementor-testimonial-two-widget.php:253
+#: elementor/addons/elementor-testimonial-two-widget.php:266
+msgid "you can set yes/no to enable/disable"
+msgstr ""

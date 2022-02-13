@@ -1,0 +1,57 @@
+//Single Brand image
+.brands-carousel {
+  .slick-slide {
+    &.slick-center {
+      &.single-gallery-item {
+        &:after {
+          background-color: rgba(#19232D, 0);
+        }
+      }
+    }
+  }
+}
+
+.single-gallery-item {
+  transition: all 300ms ease;
+  position: relative;
+  z-index: 0;
+
+  &.style-01 {
+    border-radius: 10px;
+
+    &:after {
+      border-radius: 10px;
+      background-color: transparent;
+    }
+  }
+
+  &:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(#19232D, .8);
+    position: absolute;
+    transition: all 300ms ease-in-out;
+  }
+
+  img {
+
+  }
+}
+
+.single-brand-item {
+  img {
+    filter: grayscale(1);
+    transition: all 0.3s ease;
+    padding: 0 30px;
+    margin: auto;
+  }
+
+  &:hover {
+    img {
+      filter: grayscale(0);
+    }
+  }
+}
