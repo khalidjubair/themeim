@@ -29,7 +29,7 @@ if (class_exists('CSF')) {
                 'id' => 'video_url',
                 'type' => 'text',
                 'title' => esc_html__('Enter Video URL', 'themeim'),
-                'desc' => wp_kses(__('enter <mark>video url</mark> to show in frontend', 'themeim'), $allowed_html)
+                'desc' => wp_kses(__('Enter <mark>video url</mark> to show in frontend', 'themeim'), $allowed_html)
             )
         )
     ));
@@ -79,15 +79,73 @@ if (class_exists('CSF')) {
     ));
     CSF::createSection($prefix . '_product_options', array(
         'fields' => array(
-            array( 
-                'id' => 'product_icon',
-                'type' => 'icon',
-                'title' => esc_html__('Icon', 'themeim'),
-                'desc' => wp_kses(__('Select Your Icon', 'themeim'), $allowed_html)
+            array(
+                'id' => '_sub_title',
+                'type' => 'text',
+                'title' => esc_html__('Sub Title', 'themeim'),
+            ),
+            array(
+                'id'    => '_is_premium',
+                'type'  => 'switcher',
+                'title' => esc_html__('Free / Premium', 'themeim'),
+            ),
+            array(
+                'id' => '_demo_title',
+                'type' => 'text',
+                'title' => esc_html__('Demo Title', 'themeim'),
+            ),
+            array(
+                'id' => '_demo_url',
+                'type' => 'text',
+                'title' => esc_html__('Enter Demo URL', 'themeim'),
+            ),
+            array(
+                'id' => '_details_title',
+                'type' => 'text',
+                'title' => esc_html__('Details Title', 'themeim'),
+            ),
+            array(
+                'id' => '_free_version_title',
+                'type' => 'text',
+                'title' => esc_html__('Free Version URL', 'themeim'),
+            ),
+            array(
+                'id' => '_title_download_buy',
+                'type' => 'text',
+                'title' => esc_html__('Title Download / Buy', 'themeim'),
+            ),
+            // array(
+            //     'id' => '_buy_url',
+            //     'type' => 'text',
+            //     'title' => esc_html__('Buy URL', 'themeim'),
+            // ),
+            array(
+                'id' => '_documentation_url',
+                'type' => 'text',
+                'title' => esc_html__('Documentation URL', 'themeim'),
+            ),
+            array(
+                'id' => '_support_url',
+                'type' => 'text',
+                'title' => esc_html__('Support URL', 'themeim'),
+            ),
+            array(
+                'id' => '_video_url',
+                'type' => 'text',
+                'title' => esc_html__('Video URL', 'themeim'),
+            ),
+            array(
+                'id' => '_licensed',
+                'type' => 'text',
+                'title' => esc_html__('Licensed', 'themeim'),
+            ),
+            array(
+                'id' => '_ratings',
+                'type' => 'text',
+                'title' => esc_html__('Ratings', 'themeim'),
             )
         )
     ));
-
     
     //	Pricing Meta Box
     CSF::createMetabox($prefix . '_pricing_options', array(
@@ -106,3 +164,7 @@ if (class_exists('CSF')) {
     ));
 
 }//endif
+
+
+echo get_post_meta(get_the_ID(), 'cource_price', true);
+echo get_the_title(get_the_ID());

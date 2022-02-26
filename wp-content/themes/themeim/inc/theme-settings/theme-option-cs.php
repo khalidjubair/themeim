@@ -53,7 +53,7 @@ if (class_exists('CSF')) {
             array(
                 'id' => 'preloader_enable',
                 'title' => esc_html__('Preloader', 'themeim'),
-                'type' => 'switcher',
+                'type' => 'switcher',  
                 'desc' => wp_kses(__('you can set <mark>Yes / No</mark> to enable/disable preloader', 'themeim'), $allowed_html),
                 'default' => true,
             ),
