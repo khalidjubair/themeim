@@ -263,141 +263,15 @@ if (!class_exists('themeim_Init')) {
          * Load Theme Css
          * @since 1.0.0
          */
-        public function load_theme_css()
-        {
-            $theme_version = THEMEIM_DEV ? time() : themeim()->get_theme_info('version');
-            $css_ext = '.css';
-            //load google fonts
-            $enqueue_google_fonts = self::load_google_fonts();
-            if (!empty($enqueue_google_fonts)) {
-                wp_enqueue_style('themeim-google-fonts', esc_url(add_query_arg('family', urlencode(implode('|', $enqueue_google_fonts)), '//fonts.googleapis.com/css')), array(), null);
-            }
-            $all_css_files = array(
-                array(
-                    'handle' => 'animate',
-                    'src' => THEMEIM_CSS . '/animate.css',
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'flaticon',
-                    'src' => THEMEIM_CSS . '/icomoon.css',
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'bootstrap',
-                    'src' => THEMEIM_CSS . '/bootstrap.min.css',
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'font-awesome',
-                    'src' => THEMEIM_CSS . '/font-awesome.min.css',
-                    'deps' => array(),
-                    'ver' => '5.12.0',
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'magnific-popup',
-                    'src' => THEMEIM_CSS . '/magnific-popup.css',
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'themeim-default-style',
-                    'src' => THEMEIM_CSS . '/default-style' . $css_ext,
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'themeim-main-style',
-                    'src' => THEMEIM_CSS . '/main-style' . $css_ext,
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-                array(
-                    'handle' => 'themeim-responsive',
-                    'src' => THEMEIM_CSS . '/responsive' . $css_ext,
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                ),
-            );
-            if (class_exists('WooCommerce')) {
-                $all_css_files[] = array(
-                    'handle' => 'themeim-woocommerce-style',
-                    'src' => THEMEIM_CSS . '/woocommerce-style' . $css_ext,
-                    'deps' => array(),
-                    'ver' => $theme_version,
-                    'media' => 'all',
-                );
-            }
-            $all_css_files = apply_filters('themeim_theme_enqueue_style', $all_css_files);
-
-            if (is_array($all_css_files) && !empty($all_css_files)) {
-                foreach ($all_css_files as $css) {
-                    call_user_func_array('wp_enqueue_style', $css);
-                }
-            }
+        public function load_theme_css(){
             wp_enqueue_style('themeim-style', get_stylesheet_uri());
-
-            if (themeim()->is_themeim_core_active()) {
-                if (file_exists(THEMEIM_DYNAMIC_STYLESHEETS . '/theme-inline-css-style.php')) {
-                    require_once THEMEIM_DYNAMIC_STYLESHEETS . '/theme-inline-css-style.php';
-                    require_once THEMEIM_DYNAMIC_STYLESHEETS . '/theme-option-css-style.php';
-                    wp_add_inline_style('themeim-style', themeim()->minify_css_lines($GLOBALS['themeim_inline_css']));
-                    wp_add_inline_style('themeim-style', themeim()->minify_css_lines($GLOBALS['theme_customize_css']));
-                }
-
-            }
         }
 
         /**
          * Load Theme js
          * @since 1.0.0
          */
-        public function load_theme_js()
-        {
-            $theme_version = themeim()->get_theme_info('version');
-            $js_ext = THEMEIM_DEV ? '.js' : '.min.js';
-            $all_js_files = array(
-                array(
-                    'handle' => 'bootstrap',
-                    'src' => THEMEIM_JS . '/bootstrap.min.js',
-                    'deps' => array('jquery'),
-                    'ver' => $theme_version,
-                    'in_footer' => true,
-                ),
-                array(
-                    'handle' => 'magnific-popup',
-                    'src' => THEMEIM_JS . '/jquery.magnific-popup.js',
-                    'deps' => array('jquery'),
-                    'ver' => $theme_version,
-                    'in_footer' => true,
-                ),
-                array(
-                    'handle' => 'themeim-main-script',
-                    'src' => THEMEIM_JS . '/main' . $js_ext,
-                    'deps' => array('jquery'),
-                    'ver' => $theme_version,
-                    'in_footer' => true,
-                ),
-            );
-            $all_js_files = apply_filters('themeim_theme_enqueue_script', $all_js_files);
-
-            if (is_array($all_js_files) && !empty($all_js_files)) {
-                foreach ($all_js_files as $js) {
-                    call_user_func_array('wp_enqueue_script', $js);
-                }
-            }
-
+        public function load_theme_js(){
             if (is_singular() && comments_open() && get_option('thread_comments')) {
                 wp_enqueue_script('comment-reply');
             }
@@ -410,18 +284,6 @@ if (!class_exists('themeim_Init')) {
         public function load_theme_dependency_files()
         {
             $includes_files = array(
-                array(
-                    'file-name' => 'activation',
-                    'file-path' => THEMEIM_TGMA
-                ),
-                array(
-                    'file-name' => 'theme-breadcrumb',
-                    'file-path' => THEMEIM_INC
-                ),
-                array(
-                    'file-name' => 'theme-excerpt',
-                    'file-path' => THEMEIM_INC
-                ),
                 array(
                     'file-name' => 'theme-hook-customize',
                     'file-path' => THEMEIM_INC

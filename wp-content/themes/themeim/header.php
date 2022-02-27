@@ -21,15 +21,3 @@
 
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
-<?php
-do_action( 'themeim_after_body' );
-$page_container_meta = themeim_Group_Fields_Value::page_container( 'themeim', 'header_options' );
-?>
-
-<div id="page" class="site">
-    <a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'themeim' ); ?></a>
-    <header id="masthead" class="site-header">
-    <?php get_template_part('template-parts/header/header',$page_container_meta['navbar_type']);?>
-    </header><!-- #masthead -->
-	<?php do_action( 'themeim_before_page_content' ) ?>
-    <div id="content" class="site-content">
